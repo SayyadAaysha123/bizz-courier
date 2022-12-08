@@ -1,0 +1,331 @@
+{
+    "home": "Дом",
+    "login": "Авторизоваться",
+    "logout": "Выйти",
+    "theName": "Название",
+    "name": "Имя",
+    "fullName": "ФИО",
+    "enterFullName": "Введите свое полное имя",
+    "phone": "Телефон",
+    "thePhone": "Телефон",
+    "enterPhoneCorrectly": "Введите свой телефон правильно",
+    "enterFullPhoneNumber": "Введите свой полный телефон",
+    "fantasyName": "Имя фантазии",
+    "enterCompanyName": "Введите название компании",
+    "email": "Эл. адрес",
+    "enterEmail": "Введите адрес электронной почты",
+    "enterValidEmail": "Введите действительный адрес электронной почты",
+    "emailNotFound": "Электронная почта не найдена",
+    "waitSendLinkAgain": "Подождите, чтобы снова отправить ссылку",
+    "password": "Пароль",
+    "thePassword": "Сенха",
+    "enterPassword": "Введите свой пароль",
+    "enterPasswordConfirmation": "Введите подтверждение пароля",
+    "confirmPassword": "Подтвердите свой пароль",
+    "passwordsNotMatch": "Пароли не совпадают",
+    "incorrectEmailPassword": "Неправильный адрес электронной почты или пароль",
+    "forgetPassword": "Забыли свой пароль?",
+    "loginRequired": "Требуется логин",
+    "errorLogin": "Ошибка при входе",
+    "errorRegister": "Ошибка при регистрации",
+    "save": "Сохранять",
+    "dontHaveAccount": "У вас нет аккаунта?",
+    "createAccount": "Подписаться",
+    "registerAsCourier": "Зарегистрироваться как курьер",
+    "haveAnAccount": "Иметь аккаунт?",
+    "signIn": "Войти",
+    "skipForNow": "Пропустить сейчас",
+    "skip": "Пропускать",
+    "verifyConnection": "Проверьте подключение к Интернету",
+    "rememberMe": "Запомните меня",
+    "menu": "Меню",
+    "wantSignOut": "Хотите выйти?",
+    "yes": "Да",
+    "no": "Нет",
+    "theme": "Тема",
+    "darkTheme": "Темная тема",
+    "lightTheme": "Светлая тема",
+    "sendLink": "Отправить ссылку",
+    "linkSubmitted": "Ссылка отправлена",
+    "errorSendingLink": "Ошибка отправки ссылки",
+    "linkCopied": "Ссылка была скопирована",
+    "orders": "Заказы",
+    "order": "Заказ",
+    "noOrders": "Заказов не найдено",
+    "errorGettingOrder": "Ошибка получения заказа",
+    "orderNotFound": "Заказ не найден",
+    "recentOrders": "Последние Заказы",
+    "hours": "Часы",
+    "minutes": "Минуты",
+    "delivery": "Доставка",
+    "pickup": "Подбирать",
+    "table": "Стол",
+    "dateFormat": "гггг-мм-дд",
+    "datetimeFormat": "гггг-ММ-дд ЧЧ:мм",
+    "seeFullOrder": "Посмотреть полный заказ",
+    "paymentMethod": "Метод оплаты",
+    "paymentStatus": "Статус платежа",
+    "deliveryMethod": "Способ доставки",
+    "tracking": "Отслеживание",
+    "details": "Подробности",
+    "products": "Товары",
+    "inProgress": "В процессе",
+    "finalized": "Завершено",
+    "customer": "Покупатель",
+    "value": "Количество",
+    "totalAmount": "Итого",
+    "subtotal": "Промежуточный итог",
+    "deliveryFee": "Стоимость доставки",
+    "coupon": "Купон",
+    "advanceStatus": "предварительный статус",
+    "deleteLastStatus": "Удалить последний статус",
+    "inputMinimumSize": "{fieldName} должно быть не менее {requiredSize} символов.",
+    "@inputMinimumSize": {
+        "description": "Минимальный размер поля",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "Пароль"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "navigation": "Навигация",
+    "receiveDeliveries": "Получать поставки",
+    "errorUpdateStatus": "Произошла ошибка при обновлении статуса, попробуйте еще раз",
+    "errorChangeStatus": "Произошла ошибка при изменении статуса, попробуйте еще раз",
+    "linkDeliveries": "Ссылка на поставки",
+    "yourRideValueSetByYouOrSystemDefault": "Стоимость поездки устанавливается вами или вы можете использовать системное значение по умолчанию.",
+    "next": "Следующий",
+    "weDontProfitFromYou": "Мы не получаем от вас выгоду",
+    "youReceiveWhatYouSetInYourValues": "Вы получаете именно то, что указали в своих ценностях, и мы добавляем небольшую комиссию в размере 10% к сумме, уплаченной клиентом.",
+    "yourLinkOrderDirectlyWithYou": "Ваша ссылка для заказа прямо у вас",
+    "sendToCustomersAlreadyTrustWorkOrdersFallToYou": "Отправьте его клиентам, которые уже доверяют вашей работе, и при этом их заказы попадают непосредственно к вам.",
+    "muchMoreThoughtCourier": "Гораздо больше мыслей для вас, курьер!",
+    "possibilityCreateDeliveryTeamMultipleOrder": "Возможность создать свою команду доставки в приложении, выполнять несколько заказов и многое другое!",
+    "haveDriversLicenseInHandCompleteRegistration": "Теперь имейте при себе водительское удостоверение, чтобы завершить регистрацию.",
+    "letsStart": "Давайте начнем",
+    "selectAccountType": "Выберите тип учетной записи",
+    "proceedRegistration": "Перейти к регистрации",
+    "onlyOrderViaLink": "Только заказы по ссылке",
+    "ordersLinkPanel": "Заказы по ссылке и панели",
+    "allowsDeviceCompleteAccountReceiveOrdersOrJustLink": "Entrejax позволяет вам решить, хотите ли вы иметь полную учетную запись и получать заказы рядом с вами или просто получать по ссылке (кому вы делитесь).",
+    "receiveOrderEntrejaxAndLink": "Получайте заказы с панели управления Entrejax и получайте мою ссылку",
+    "receiveOrderLinkOnly": "Принимайте заказы только по моей ссылке",
+    "optionAutomaticallyReceiveOrdersPanelAndHaveLink": "В этом варианте вы сможете автоматически получать заказы с панели Entrejax даже от клиентов, у которых нет вашей ссылки, но нам нужно будет проверить и утвердить ваши документы.",
+    "optionMustShareLink": "В этом варианте запрашивать ее смогут только клиенты, у которых есть ваша ссылка. Вы должны поделиться своей ссылкой со своими клиентами и не будете отображаться для доставок поблизости на панели инструментов Entrejax.",
+    "registration": "Регистрация",
+    "register": "регистр",
+    "wantToLeaveRegistration": "Вы хотите выйти из регистрации?",
+    "exitingRegistrationDataLost": "При выходе из регистрации все уже введенные данные будут потеряны.",
+    "cancel": "Отмена",
+    "declareHaveReadAgreed": "Регистрируясь, вы заявляете, что прочитали и согласны с нашими",
+    "termsUsePrivacyPolicy": "Условия использования и политика конфиденциальности",
+    "leave": "Оставлять",
+    "youDontHaveAnyOrders": "У вас нет заказов",
+    "newOrderReceived": "Получен новый заказ!",
+    "searchingOrders": "Поиск заказов",
+    "receiveOrders": "Получать заказы",
+    "noLocationPermission": "Нет разрешения на местоположение",
+    "errorFetchingStatus": "Не удалось получить статус",
+    "errorConnectingMercadoPago": "Ошибка подключения к Mercado Pago",
+    "errorDisconnectingAccount": "Ошибка отключения аккаунта",
+    "errorUpdatingSetting": "Ошибка обновления настроек",
+    "loadMore": "Загрузи больше",
+    "requestedBy": "Запрошенный",
+    "pickupAddress": "Выберите адрес",
+    "deliveryAddress": "Адресс доставки",
+    "deliveryAddresses": "Адреса доставки",
+    "viewCompleteOrder": "Посмотреть полный заказ",
+    "termsUse": "Условия эксплуатации",
+    "privacyPolicy": "Политика конфиденциальности",
+    "tryAgain": "Попробуйте еще раз",
+    "support": "Поддерживать",
+    "accountSupport": "Поддержка аккаунта",
+    "disconnected": "Отключено",
+    "connected": "Связано",
+    "connect": "Соединять",
+    "disconnect": "Отключить",
+    "connectMyMercadoPago": "Подключить мой Mercado Pago",
+    "waitConnecting": "Пожалуйста, подождите, подключение",
+    "continuee": "Продолжать",
+    "saveValues": "Сохранить значения",
+    "feeEachAdditionalStop": "Плата за каждую дополнительную остановку на маршруте",
+    "enterFeePerStop": "Введите цену за остановку",
+    "feePerStop": "Плата за остановку",
+    "valueReturnPickupSite": "Значение {distanceUnit} возврата к месту выдачи",
+    "@valueReturnPickupSite": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterValueReturn": "Введите значение возврата {distanceUnit}",
+    "@enterValueReturn": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "returnDistance": "Возврат {distanceUnit}",
+    "@returnDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "valueAdditionalBaseDistance": "Стоимость дополнительных {distanceUnit} базового расстояния",
+    "@valueAdditionalBaseDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterDistanceValue": "Введите значение {distanceUnit}",
+    "@enterDistanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "distanceValue": "{distanceUnit} Значение",
+    "@distanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "initialValueWithoutChargingAdditional": "{distanceUnit}(s), на которые начальное значение дает право без взимания дополнительных {distanceUnit}",
+    "@initialValueWithoutChargingAdditional": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterBaseDistance": "Введите базовое расстояние",
+    "baseDistance": "Базовое расстояние",
+    "amountInitiallyCharged": "Первоначально списанная сумма",
+    "enterBaseAmount": "Введите базовую сумму",
+    "baseAmount": "Базовая сумма",
+    "attention": "Внимание",
+    "theValuesWillResetAppBase": "Введенные значения будут сброшены до базового значения приложения. Вы хотите продолжить?",
+    "useAppBaseValue": "Использовать базовое значение приложения",
+    "configureDeliveryFeeValues": "Настройте значения платы за доставку",
+    "needCreditCardMachineOrderMercadoPagoDiscount": "Нужна машина для кредитных карт? Закажите один из Mercado Pago со скидкой до 83%, нажав здесь.",
+    "activateOfflinePaymentDebitCard": "Активируйте автономный платеж с помощью дебетовой карты (вам необходимо иметь свой компьютер)",
+    "activateOfflinePaymentCreditCard": "Активируйте автономный платеж с помощью кредитной карты (вам необходимо иметь свой компьютер)",
+    "activateCashPayment": "Активировать оплату наличными",
+    "activateOnlyPaymentMercadoPago": "Активируйте онлайн-платеж с помощью Mercado Pago (платежи мгновенно отправляются на счет Mercado Pago, подключенный выше)",
+    "settingHaveBeenSaved": "Настройки были сохранены",
+    "errorUpdatingPaymentMethods": "Не удалось обновить способы оплаты.",
+    "agree": "Соглашаться",
+    "disagree": "Не согласен",
+    "noPermissions": "Нет разрешений",
+    "appCollectsLocationEvenBackground": "{appName} собирает ваше местоположение, когда вы доступны для доставки, чтобы клиент мог найти ближайших курьеров, даже когда приложение закрыто (в фоновом режиме) или не используется.",
+    "@appCollectsLocationEvenBackground": {
+        "placeholders": {
+            "appName": {
+                "type": "String"
+            }
+        }
+    },
+    "locationRequired": "Требуется местоположение",
+    "enableLocationContinue": "Включите местоположение, чтобы продолжить",
+    "activate": "Активировать",
+    "goToSettings": "Перейти к настройкам",
+    "acessLocationAllTheTime": "Доступ к местоположению все время",
+    "allowAppAcessLocationAllTimesContinue": "Разрешите приложению постоянно получать доступ к вашему местоположению, чтобы продолжить.",
+    "clickOnAdressOpenInMap": "Нажмите на адрес, чтобы открыть его на карте",
+    "collect": "Собирать",
+    "returnCollectLocation": "Вернуться к месту сбора",
+    "pickupAddressNotProvidedContactCustomer": "Адрес самовывоза не указан, свяжитесь с покупателем.",
+    "accept": "Принимать",
+    "refuse": "Мусор",
+    "cancelOrder": "Отменить заказ",
+    "finalizeOrder": "Завершить заказ",
+    "markDelivered": "Рынок в готовом виде",
+    "orderCollected": "Заказ собран",
+    "orderStatus": "Статус заказа",
+    "courierValue": "Стоимость курьера",
+    "appFee": "Плата за приложение",
+    "note": "Примечание",
+    "returnCollectionLocation": "Вернуться к месту сбора",
+    "estimatedDistance": "Расчетное расстояние",
+    "addresses": "Адреса",
+    "select": "Выбирать",
+    "returnn": "Возвращаться",
+    "finalize": "Завершить",
+    "deliveryConfirmedSelectedAddress": "Доставка подтверждена на выбранный адрес.",
+    "orderMarkedAs": "Заказ был отмечен как",
+    "orderRequiredReturningFinalizeOnlyAfterArrived": "Заказ требует возврата к месту сбора, завершите только после того, как вы прибыли на место.",
+    "selectWhichAddressDeliveryMade": "Выберите, на какой адрес была осуществлена доставка",
+    "orderWillBeCanceledAmountRefundedSure": "Заказ будет отменен, и это действие необратимо. Сумма будет возвращена клиенту, и мы сообщим вам об отмене. Вы уверены что хотите продолжить?",
+    "camera": "Камера",
+    "gallery": "Галерея",
+    "updatePhoto": "Обновить фото",
+    "cameraAccess": "Доступ к камере",
+    "galleryAccess": "Доступ к галерее",
+    "allowAppAccessThe": "Разрешите приложению доступ к {accessType}, чтобы иметь возможность отправлять фотографии",
+    "@allowAppAccessThe": {
+        "description": "Разрешить доступ",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "Произошла ошибка при отправке изображения.",
+    "balanceDue": "Задолжность",
+    "pay": "Платить",
+    "feeNotPaydOfflinePayment": "10% комиссия еще не оплачена для заказов с офлайн-оплатой.",
+    "failedUpdate": "Не удалось обновить",
+    "dataUpdatedSuccessfully": "Данные успешно обновлены",
+    "and": "а также",
+    "kilometer": "километр",
+    "mile": "Миля",
+    "km": "км",
+    "mi": "Ми",
+    "signinWith": "Войдите с помощью {socialNetwork}",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "Требуется номер телефона",
+    "pending": "В ожидании",
+    "accepted": "Принято",
+    "rejected": "Отклоненный",
+    "collected": "Собрано",
+    "delivered": "Доставленный",
+    "cancelled": "Отменено",
+    "andMoreLocations": "и еще {quantity} местоположений",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "Завершенный",
+    "deletingYourAccont": "Удаление вашей учетной записи",
+    "deleteAccount": "Удалить аккаунт",
+    "deleteMyAccount": "Удалите мой аккаунт",
+    "reallyWantDeleteAccontDataWillBeLost": "Вы действительно хотите удалить свой аккаунт? Ваши данные будут безвозвратно потеряны.",
+    "chatWithCustomer": "Чат с клиентом",
+    "noMessages": "Нет сообщений",
+    "enterAMessage": "Введите сообщение"
+}

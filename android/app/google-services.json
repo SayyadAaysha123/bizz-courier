@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313355315947",
+    "project_id": "courierapp-2a93e",
+    "storage_bucket": "courierapp-2a93e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313355315947:android:951de86771a77d9042acae",
+        "android_client_info": {
+          "package_name": "com.codexxa.courierdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313355315947-t1oj81n76mcolhd4vhj8km113soqnfd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codexxa.courierdelivery",
+            "certificate_hash": "62bc7fefe6c60ac1ee214699f00e280c56c751bf"
+          }
+        },
+        {
+          "client_id": "313355315947-mkmai2h3mucrtigsb04o825mg4la0had.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsx7kl_aKyaU__PqIJf7ncBLCv8vhzjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313355315947-mkmai2h3mucrtigsb04o825mg4la0had.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

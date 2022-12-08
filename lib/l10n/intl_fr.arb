@@ -1,0 +1,331 @@
+{
+    "home": "Maison",
+    "login": "Connexion",
+    "logout": "Se déconnecter",
+    "theName": "Le nom",
+    "name": "Nom",
+    "fullName": "Nom et prénom",
+    "enterFullName": "Entrez votre nom complet",
+    "phone": "Téléphoner",
+    "thePhone": "Le téléphone",
+    "enterPhoneCorrectly": "Saisissez correctement votre téléphone",
+    "enterFullPhoneNumber": "Entrez votre numéro de téléphone complet",
+    "fantasyName": "Nom de fantaisie",
+    "enterCompanyName": "Entrez le nom de l'entreprise",
+    "email": "E-mail",
+    "enterEmail": "Entrer votre Email",
+    "enterValidEmail": "Entrer un email valide",
+    "emailNotFound": "Email non trouvé",
+    "waitSendLinkAgain": "Attendre pour renvoyer le lien",
+    "password": "Mot de passe",
+    "thePassword": "Un senha",
+    "enterPassword": "Tapez votre mot de passe",
+    "enterPasswordConfirmation": "Entrez la confirmation du mot de passe",
+    "confirmPassword": "Confirmer votre mot de passe",
+    "passwordsNotMatch": "Les mots de passe ne correspondent pas",
+    "incorrectEmailPassword": "email ou mot de passe incorrect",
+    "forgetPassword": "Mot de passe oublié?",
+    "loginRequired": "Connexion requise",
+    "errorLogin": "Erreur lors de la connexion",
+    "errorRegister": "Erreur lors de l'inscription",
+    "save": "sauvegarder",
+    "dontHaveAccount": "Vous n'avez pas de compte ?",
+    "createAccount": "s'inscrire",
+    "registerAsCourier": "Inscrivez-vous en tant que coursier",
+    "haveAnAccount": "Avoir un compte?",
+    "signIn": "s'identifier",
+    "skipForNow": "Ignorer pour l'instant",
+    "skip": "Sauter",
+    "verifyConnection": "Vérifiez votre connexion Internet",
+    "rememberMe": "Souviens-toi de moi",
+    "menu": "Menu",
+    "wantSignOut": "Vous voulez vous déconnecter ?",
+    "yes": "Oui",
+    "no": "Non",
+    "theme": "Thème",
+    "darkTheme": "Thème sombre",
+    "lightTheme": "Thème lumière",
+    "sendLink": "Soumettre le lien",
+    "linkSubmitted": "Lien soumis",
+    "errorSendingLink": "Erreur lors de l'envoi du lien",
+    "linkCopied": "Le lien a été copié",
+    "orders": "Ordres",
+    "order": "Ordre",
+    "noOrders": "Aucune commande trouvée",
+    "errorGettingOrder": "Erreur lors de la réception de la commande",
+    "orderNotFound": "Commande introuvable",
+    "recentOrders": "Dernières commandes",
+    "hours": "Heures",
+    "minutes": "Minutes",
+    "delivery": "Livraison",
+    "pickup": "Ramasser",
+    "table": "Table",
+    "dateFormat": "aaaa-MM-jj",
+    "datetimeFormat": "aaaa-MM-jj HH:mm",
+    "seeFullOrder": "Voir la commande complète",
+    "paymentMethod": "Mode de paiement",
+    "paymentStatus": "Statut de paiement",
+    "deliveryMethod": "Méthode de livraison",
+    "tracking": "Suivi",
+    "details": "Détails",
+    "products": "Des produits",
+    "inProgress": "En cours",
+    "finalized": "Finalisé",
+    "customer": "Client",
+    "value": "Montant",
+    "totalAmount": "Montant total",
+    "subtotal": "Total",
+    "deliveryFee": "Frais de livraison",
+    "coupon": "Coupon",
+    "advanceStatus": "statut avancé",
+    "deleteLastStatus": "Supprimer le dernier statut",
+    "inputMinimumSize": "{fieldName} doit comporter au moins {requiredSize} caractères",
+    "@inputMinimumSize": {
+        "description": "Taille minimale du champ",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "Mot de passe"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "profile": "Profil",
+    "settings": "Réglages",
+    "navigation": "La navigation",
+    "receiveDeliveries": "Recevoir des livraisons",
+    "errorUpdateStatus": "Une erreur s'est produite lors de l'actualisation du statut, veuillez réessayer",
+    "errorChangeStatus": "Une erreur s'est produite lors de la modification du statut, veuillez réessayer",
+    "linkDeliveries": "Lien vers les livraisons",
+    "yourRideValueSetByYouOrSystemDefault": "Votre valeur de trajet est définie par vous ou vous pouvez utiliser la valeur par défaut du système.",
+    "next": "Prochain",
+    "weDontProfitFromYou": "Nous ne profitons pas de vous",
+    "youReceiveWhatYouSetInYourValues": "Vous recevez exactement ce que vous avez défini dans vos valeurs et nous ajoutons une petite commission de 10 % au montant payé par le client.",
+    "yourLinkOrderDirectlyWithYou": "Votre lien pour commander directement avec vous",
+    "sendToCustomersAlreadyTrustWorkOrdersFallToYou": "Envoyez-le aux clients qui font déjà confiance à votre travail et avec qui leurs commandes vous reviennent directement.",
+    "muchMoreThoughtCourier": "Beaucoup plus pensé pour vous courrier!",
+    "possibilityCreateDeliveryTeamMultipleOrder": "Possibilité de créer votre équipe de livraison dans l'application, de traiter plusieurs commandes et bien plus encore !",
+    "haveDriversLicenseInHandCompleteRegistration": "Ayez maintenant votre permis de conduire en main pour terminer l'inscription",
+    "letsStart": "Commençons",
+    "selectAccountType": "Sélectionnez le type de compte",
+    "proceedRegistration": "Procéder à l'inscription",
+    "onlyOrderViaLink": "Uniquement les commandes via le lien",
+    "ordersLinkPanel": "Commandes par lien et panneau",
+    "allowsDeviceCompleteAccountReceiveOrdersOrJustLink": "Entrejax vous permet de décider si vous souhaitez avoir un compte complet et recevoir les commandes près de chez vous ou simplement recevoir via le lien (à qui vous partagez).",
+    "receiveOrderEntrejaxAndLink": "Recevez les commandes du tableau de bord Entrejax et ayez mon lien",
+    "receiveOrderLinkOnly": "Recevez des commandes via mon lien uniquement",
+    "optionAutomaticallyReceiveOrdersPanelAndHaveLink": "Dans cette option, vous pourrez recevoir automatiquement les commandes du panel Entrejax, même des clients qui n'ont pas votre lien, mais nous devrons vérifier et valider vos documents.",
+    "optionMustShareLink": "Dans cette option, seuls les clients qui ont votre lien pourront le demander. Vous devez partager votre lien avec vos clients et n'apparaîtra pas pour les livraisons à proximité sur le tableau de bord Entrejax.",
+    "registration": "Inscription",
+    "register": "s'inscrire",
+    "wantToLeaveRegistration": "Voulez-vous quitter l'enregistrement ?",
+    "exitingRegistrationDataLost": "À la sortie de l'enregistrement, toutes les données déjà saisies seront perdues.",
+    "cancel": "Annuler",
+    "declareHaveReadAgreed": "En vous inscrivant, vous déclarez avoir lu et accepté nos",
+    "termsUsePrivacyPolicy": "Conditions d'utilisation et politique de confidentialité",
+    "leave": "Partir",
+    "youDontHaveAnyOrders": "Vous n'avez aucune commande",
+    "newOrderReceived": "Nouvelle commande reçue !",
+    "searchingOrders": "Recherche de commandes",
+    "receiveOrders": "Recevoir des commandes",
+    "noLocationPermission": "Aucune autorisation de localisation",
+    "errorFetchingStatus": "Erreur lors de la récupération de l'état",
+    "errorConnectingMercadoPago": "Erreur de connexion à Mercado Pago",
+    "errorDisconnectingAccount": "Erreur lors de la déconnexion du compte",
+    "errorUpdatingSetting": "Erreur lors de la mise à jour des paramètres",
+    "loadMore": "Charger plus",
+    "requestedBy": "Demandé par",
+    "pickupAddress": "Adresse de ramassage",
+    "deliveryAddress": "Adresse de livraison",
+    "deliveryAddresses": "Adresses de livraison",
+    "viewCompleteOrder": "Afficher la commande complète",
+    "termsUse": "Conditions d'utilisation",
+    "privacyPolicy": "Politique de confidentialité",
+    "tryAgain": "Réessayer",
+    "support": "Soutien",
+    "accountSupport": "Prise en charge du compte",
+    "disconnected": "Débranché",
+    "connected": "Lié",
+    "connect": "Relier",
+    "disconnect": "Déconnecter",
+    "connectMyMercadoPago": "Connecter mon Mercado Pago",
+    "waitConnecting": "Veuillez patienter, connexion",
+    "continuee": "Continuer",
+    "saveValues": "Enregistrer les valeurs",
+    "feeEachAdditionalStop": "Frais pour chaque arrêt supplémentaire sur le parcours",
+    "enterFeePerStop": "Entrez le tarif par arrêt",
+    "feePerStop": "Frais par arrêt",
+    "valueReturnPickupSite": "Valeur de la {distanceUnit} de retour au lieu de prise en charge",
+    "@valueReturnPickupSite": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterValueReturn": "Entrez la valeur du retour {distanceUnit}",
+    "@enterValueReturn": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "returnDistance": "Renvoie {distanceUnit}",
+    "@returnDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "valueAdditionalBaseDistance": "Valeur par {distanceUnit} supplémentaire de la distance de base",
+    "@valueAdditionalBaseDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterDistanceValue": "Entrez la valeur {distanceUnit}",
+    "@enterDistanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "distanceValue": "{distanceUnit} Valeur",
+    "@distanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "initialValueWithoutChargingAdditional": "{distanceUnit}(s) que la valeur initiale donnera droit sans facturer {distanceUnit} supplémentaire",
+    "@initialValueWithoutChargingAdditional": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterBaseDistance": "Entrez la distance de base",
+    "baseDistance": "Distance de base",
+    "amountInitiallyCharged": "Montant initialement facturé",
+    "enterBaseAmount": "Entrez le montant de base",
+    "baseAmount": "Montant de base",
+    "attention": "Attention",
+    "theValuesWillResetAppBase": "Les valeurs saisies seront réinitialisées à la valeur de base de l'application. Souhaitez-vous continuer?",
+    "useAppBaseValue": "Utiliser la valeur de base de l'application",
+    "configureDeliveryFeeValues": "Configurez vos valeurs de frais de livraison",
+    "needCreditCardMachineOrderMercadoPagoDiscount": "Besoin d'une machine à carte de crédit ? Commandez celui de Mercado Pago avec jusqu'à 83 % de réduction en appuyant ici",
+    "activateOfflinePaymentDebitCard": "Activez le paiement hors ligne avec une carte de débit (vous devez avoir votre machine)",
+    "activateOfflinePaymentCreditCard": "Activer le paiement hors ligne avec carte de crédit (vous devez avoir votre machine)",
+    "activateCashPayment": "Activer le paiement en espèces",
+    "activateOnlyPaymentMercadoPago": "Activez le paiement en ligne avec Mercado Pago (le paiement est envoyé instantanément au compte Mercado Pago connecté ci-dessus)",
+    "settingHaveBeenSaved": "Les paramètres ont été enregistrés",
+    "errorUpdatingPaymentMethods": "Une erreur s'est produite lors de la mise à jour des modes de paiement",
+    "agree": "Accepter",
+    "disagree": "Être en désaccord",
+    "noPermissions": "pas de permissions",
+    "appCollectsLocationEvenBackground": "{appName} recueille votre position lorsque vous êtes disponible pour les livraisons afin de permettre au client de trouver les coursiers les plus proches même lorsque l'application est fermée (en arrière-plan) ou non utilisée.",
+    "@appCollectsLocationEvenBackground": {
+        "placeholders": {
+            "appName": {
+                "type": "String"
+            }
+        }
+    },
+    "locationRequired": "Emplacement requis",
+    "enableLocationContinue": "Activer la localisation pour continuer",
+    "activate": "Activer",
+    "goToSettings": "Aller aux paramètres",
+    "acessLocationAllTheTime": "Accès à l'emplacement tout le temps",
+    "allowAppAcessLocationAllTimesContinue": "Autorisez l'application à accéder à votre position à tout moment pour continuer",
+    "clickOnAdressOpenInMap": "Cliquez sur l'adresse pour l'ouvrir sur la carte",
+    "collect": "Recueillir",
+    "returnCollectLocation": "Retour au lieu de collecte",
+    "pickupAddressNotProvidedContactCustomer": "Adresse de ramassage non fournie, veuillez contacter le client.",
+    "accept": "Accepter",
+    "refuse": "Refuser",
+    "cancelOrder": "annuler la commande",
+    "finalizeOrder": "Finaliser la commande",
+    "markDelivered": "Marché tel que livré",
+    "orderCollected": "Commande récupérée",
+    "orderStatus": "Statut de la commande",
+    "courierValue": "Valeur de messagerie",
+    "appFee": "Frais d'application",
+    "note": "Noter",
+    "returnCollectionLocation": "Retour au lieu de collecte",
+    "estimatedDistance": "Distance estimée",
+    "addresses": "Adresses",
+    "select": "Sélectionner",
+    "returnn": "Revenir",
+    "finalize": "Finaliser",
+    "deliveryConfirmedSelectedAddress": "La livraison a été confirmée à l'adresse sélectionnée.",
+    "orderMarkedAs": "La commande a été marquée comme",
+    "orderRequiredReturningFinalizeOnlyAfterArrived": "La commande nécessite de retourner au lieu de collecte, ne finalisez qu'après votre arrivée sur le lieu.",
+    "selectWhichAddressDeliveryMade": "Sélectionnez à quelle adresse la livraison a été effectuée",
+    "orderWillBeCanceledAmountRefundedSure": "La Commande sera annulée et cette action est irréversible. Le montant sera remboursé au client et nous vous informerons de l'annulation. Es-tu sur de vouloir continuer?",
+    "camera": "Caméra",
+    "gallery": "Galerie",
+    "updatePhoto": "Mettre à jour la photo",
+    "cameraAccess": "Accès à la caméra",
+    "galleryAccess": "Accès à la Galerie",
+    "allowAppAccessThe": "Autoriser l'application à accéder au {accessType} pour pouvoir envoyer des photos",
+    "@allowAppAccessThe": {
+        "description": "Permettre l'accès",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "Une erreur s'est produite lors de l'envoi de l'image.",
+    "balanceDue": "Solde dû",
+    "pay": "Payer",
+    "feeNotPaydOfflinePayment": "10 % de frais non encore payés pour les commandes avec paiement hors ligne.",
+    "failedUpdate": "Échec de mise à jour",
+    "dataUpdatedSuccessfully": "Données mises à jour avec succès",
+    "and": "et",
+    "kilometer": "Kilomètre",
+    "mile": "Mile",
+    "km": "km",
+    "mi": "Mi",
+    "signinWith": "Connectez-vous avec {socialNetwork}",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "Numéro de téléphone requis",
+    "pending": "En attente",
+    "accepted": "Accepté",
+    "rejected": "Rejeté",
+    "collected": "Collecté",
+    "delivered": "Livré",
+    "cancelled": "Annulé",
+    "andMoreLocations": "et plus d'emplacements de {quantity}",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "Complété",
+    "deletingYourAccont": "Suppression de votre compte",
+    "deleteAccount": "Supprimer le compte",
+    "deleteMyAccount": "Supprimer mon compte",
+    "reallyWantDeleteAccontDataWillBeLost": "Voulez-vous vraiment supprimer votre compte ? Vos données seront définitivement perdues.",
+    "chatWithCustomer": "Discuter avec le client",
+    "noMessages": "Pas de messages",
+    "enterAMessage": "Entrez un message"
+}

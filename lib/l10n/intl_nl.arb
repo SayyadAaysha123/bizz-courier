@@ -1,0 +1,331 @@
+{
+    "home": "Huis",
+    "login": "Log in",
+    "logout": "Uitloggen",
+    "theName": "De naam",
+    "name": "Naam",
+    "fullName": "Voor-en achternaam",
+    "enterFullName": "Vul uw volledige naam in",
+    "phone": "Telefoon",
+    "thePhone": "De telefoon",
+    "enterPhoneCorrectly": "Voer uw telefoon correct in",
+    "enterFullPhoneNumber": "Vul je volledige telefoon in",
+    "fantasyName": "Fantasie naam",
+    "enterCompanyName": "Voer de bedrijfsnaam in",
+    "email": "E-mail",
+    "enterEmail": "Vul je e-mailadres in",
+    "enterValidEmail": "Vul een geldig e-mailadres in",
+    "emailNotFound": "e-mail niet gevonden",
+    "waitSendLinkAgain": "Wacht om de link opnieuw te verzenden",
+    "password": "Wachtwoord",
+    "thePassword": "een senha",
+    "enterPassword": "Voer uw wachtwoord in",
+    "enterPasswordConfirmation": "Voer wachtwoordbevestiging in",
+    "confirmPassword": "Bevestig uw wachtwoord",
+    "passwordsNotMatch": "Wachtwoorden komen niet overeen",
+    "incorrectEmailPassword": "incorrecte email of wachtwoord",
+    "forgetPassword": "Wachtwoord vergeten?",
+    "loginRequired": "Inloggen vereist",
+    "errorLogin": "Fout bij inloggen",
+    "errorRegister": "Fout tijdens het registreren",
+    "save": "Opslaan",
+    "dontHaveAccount": "Heb je geen account?",
+    "createAccount": "Aanmelden",
+    "registerAsCourier": "Registreer als koerier",
+    "haveAnAccount": "Een account hebben?",
+    "signIn": "Log in",
+    "skipForNow": "Voor nu overslaan",
+    "skip": "Overslaan",
+    "verifyConnection": "Controleer uw internetverbinding",
+    "rememberMe": "Onthoud mij",
+    "menu": "Menu",
+    "wantSignOut": "Wilt u zich afmelden?",
+    "yes": "Ja",
+    "no": "Nee",
+    "theme": "Thema",
+    "darkTheme": "Donker thema",
+    "lightTheme": "Licht thema",
+    "sendLink": "Link verzenden",
+    "linkSubmitted": "Link ingediend",
+    "errorSendingLink": "Fout bij verzenden van link",
+    "linkCopied": "De link is gekopieerd",
+    "orders": "Bestellingen",
+    "order": "Bestellen",
+    "noOrders": "Geen bestellingen gevonden",
+    "errorGettingOrder": "Fout bij ophalen van bestelling",
+    "orderNotFound": "Bestelling niet gevonden",
+    "recentOrders": "Recente bestellingen",
+    "hours": "Uren",
+    "minutes": "Minuten",
+    "delivery": "Levering",
+    "pickup": "Oppakken",
+    "table": "Tafel",
+    "dateFormat": "jjjj-MM-dd",
+    "datetimeFormat": "jjjj-MM-dd UU:mm",
+    "seeFullOrder": "Zie volledige bestelling",
+    "paymentMethod": "Betalingswijze",
+    "paymentStatus": "Betalingsstatus",
+    "deliveryMethod": "Leveringsmethode:",
+    "tracking": "Volgen",
+    "details": "Details",
+    "products": "Producten",
+    "inProgress": "In uitvoering",
+    "finalized": "afgerond",
+    "customer": "Klant",
+    "value": "Hoeveelheid",
+    "totalAmount": "Totaalbedrag",
+    "subtotal": "Subtotaal",
+    "deliveryFee": "Bezorgkosten",
+    "coupon": "Coupon",
+    "advanceStatus": "voortgangsstatus",
+    "deleteLastStatus": "Laatste status verwijderen",
+    "inputMinimumSize": "{fieldName} moet minimaal {requiredSize} tekens lang zijn",
+    "@inputMinimumSize": {
+        "description": "Minimale grootte van het veld",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "Wachtwoord"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "profile": "Profiel",
+    "settings": "Instellingen",
+    "navigation": "Navigatie",
+    "receiveDeliveries": "Leveringen ontvangen",
+    "errorUpdateStatus": "Er is een fout opgetreden tijdens het vernieuwen van de status, probeer het opnieuw",
+    "errorChangeStatus": "Er is een fout opgetreden bij het wijzigen van de status, probeer het opnieuw",
+    "linkDeliveries": "Link naar leveringen",
+    "yourRideValueSetByYouOrSystemDefault": "Uw ritwaarde wordt door u ingesteld of u kunt de standaardwaarde van het systeem gebruiken.",
+    "next": "Volgende",
+    "weDontProfitFromYou": "Wij profiteren niet van u",
+    "youReceiveWhatYouSetInYourValues": "U ontvangt precies wat u in uw waarden hebt ingesteld en we voegen een kleine vergoeding van 10% toe aan het bedrag dat door de klant wordt betaald.",
+    "yourLinkOrderDirectlyWithYou": "Uw link om direct bij u te bestellen",
+    "sendToCustomersAlreadyTrustWorkOrdersFallToYou": "Stuur het naar klanten die je werk al vertrouwen en daarmee komen hun bestellingen rechtstreeks bij jou terecht.",
+    "muchMoreThoughtCourier": "Veel meer aandacht voor u koerier!",
+    "possibilityCreateDeliveryTeamMultipleOrder": "Mogelijkheid om uw bezorgteam binnen de app te creëren, meerdere bestellingen uit te voeren en nog veel meer!",
+    "haveDriversLicenseInHandCompleteRegistration": "Houd nu uw rijbewijs bij de hand om de registratie te voltooien",
+    "letsStart": "Laten we beginnen",
+    "selectAccountType": "Selecteer accounttype",
+    "proceedRegistration": "Ga naar registratie",
+    "onlyOrderViaLink": "Alleen bestellingen via de link",
+    "ordersLinkPanel": "Bestellingen via link en paneel",
+    "allowsDeviceCompleteAccountReceiveOrdersOrJustLink": "Entrejax stelt u in staat om te beslissen of u een volledig account wilt hebben en bestellingen bij u in de buurt wilt ontvangen of alleen wilt ontvangen via de link (met wie u deelt).",
+    "receiveOrderEntrejaxAndLink": "Ontvang bestellingen van het Entrejax-dashboard en heb mijn link",
+    "receiveOrderLinkOnly": "Ontvang bestellingen alleen via mijn link",
+    "optionAutomaticallyReceiveOrdersPanelAndHaveLink": "Bij deze optie kunt u automatisch bestellingen ontvangen van het Entrejax-paneel, zelfs van klanten die uw link niet hebben, maar we moeten uw documenten verifiëren en valideren.",
+    "optionMustShareLink": "In deze optie kunnen alleen klanten die uw link hebben, erom vragen. U moet uw link delen met uw klanten en zal niet verschijnen voor leveringen in de buurt op het Entrejax-dashboard.",
+    "registration": "Registratie",
+    "register": "Register",
+    "wantToLeaveRegistration": "Wilt u de registratie verlaten?",
+    "exitingRegistrationDataLost": "Bij het verlaten van de registratie gaan alle reeds ingevoerde gegevens verloren.",
+    "cancel": "Annuleren",
+    "declareHaveReadAgreed": "Door je te registreren, verklaar je dat je onze",
+    "termsUsePrivacyPolicy": "Gebruiksvoorwaarden en privacybeleid",
+    "leave": "Vertrekken",
+    "youDontHaveAnyOrders": "Je hebt geen bestellingen",
+    "newOrderReceived": "Nieuwe bestelling ontvangen!",
+    "searchingOrders": "Bestellingen zoeken",
+    "receiveOrders": "Bestellingen ontvangen",
+    "noLocationPermission": "Geen locatietoestemming",
+    "errorFetchingStatus": "Fout bij ophalen van status",
+    "errorConnectingMercadoPago": "Fout bij verbinden met Mercado Pago",
+    "errorDisconnectingAccount": "Fout bij het loskoppelen van account",
+    "errorUpdatingSetting": "Fout bij updaten van instellingen",
+    "loadMore": "Meer laden",
+    "requestedBy": "Aangevraagd door",
+    "pickupAddress": "Ophaaladres",
+    "deliveryAddress": "Bezorgadres",
+    "deliveryAddresses": "Afleveradressen",
+    "viewCompleteOrder": "Volledige bestelling bekijken",
+    "termsUse": "Gebruiksvoorwaarden",
+    "privacyPolicy": "Privacybeleid",
+    "tryAgain": "Probeer het nog eens",
+    "support": "Steun",
+    "accountSupport": "Accountondersteuning",
+    "disconnected": "Verbinding verbroken",
+    "connected": "Verbonden",
+    "connect": "Aansluiten",
+    "disconnect": "verbinding verbreken",
+    "connectMyMercadoPago": "Verbind mijn Mercado Pago",
+    "waitConnecting": "Even geduld, verbinding maken",
+    "continuee": "Doorgaan",
+    "saveValues": "Waarden opslaan",
+    "feeEachAdditionalStop": "Toeslag voor elke extra stop op de route",
+    "enterFeePerStop": "Voer tarief per halte in",
+    "feePerStop": "Tarief per halte",
+    "valueReturnPickupSite": "Waarde van de {distanceUnit} van retour naar de ophaallocatie",
+    "@valueReturnPickupSite": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterValueReturn": "Voer de waarde van de return {distanceUnit} in",
+    "@enterValueReturn": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "returnDistance": "Retour {distanceUnit}",
+    "@returnDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "valueAdditionalBaseDistance": "Waarde per extra {distanceUnit} van de basisafstand",
+    "@valueAdditionalBaseDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterDistanceValue": "Voer de {distanceUnit}-waarde in",
+    "@enterDistanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "distanceValue": "{distanceUnit} Waarde",
+    "@distanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "initialValueWithoutChargingAdditional": "{distanceUnit}(s) waarop de initiële waarde recht geeft zonder extra {distanceUnit}",
+    "@initialValueWithoutChargingAdditional": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterBaseDistance": "Voer de basisafstand in",
+    "baseDistance": "Basisafstand",
+    "amountInitiallyCharged": "Bedrag in eerste instantie in rekening gebracht",
+    "enterBaseAmount": "Vul het basisbedrag in",
+    "baseAmount": "Basis aantal",
+    "attention": "Aandacht",
+    "theValuesWillResetAppBase": "De ingevoerde waarden worden teruggezet naar de basiswaarde van de app. Wilt u doorgaan?",
+    "useAppBaseValue": "App-basiswaarde gebruiken",
+    "configureDeliveryFeeValues": "Configureer uw bezorgkosten",
+    "needCreditCardMachineOrderMercadoPagoDiscount": "Creditcardautomaat nodig? Bestel die van Mercado Pago met tot 83% korting door hier te tikken",
+    "activateOfflinePaymentDebitCard": "Activeer offline betalen met pinpas (u moet uw automaat hebben)",
+    "activateOfflinePaymentCreditCard": "Activeer offline betalen met creditcard (u moet uw machine hebben)",
+    "activateCashPayment": "Contante betaling activeren",
+    "activateOnlyPaymentMercadoPago": "Activeer online betalen met Mercado Pago (betaling wordt direct verzonden naar het Mercado Pago-account dat hierboven is gekoppeld)",
+    "settingHaveBeenSaved": "De instellingen zijn opgeslagen",
+    "errorUpdatingPaymentMethods": "Er is een fout opgetreden bij het updaten van betaalmethoden",
+    "agree": "Mee eens zijn",
+    "disagree": "Het oneens zijn",
+    "noPermissions": "geen toestemming",
+    "appCollectsLocationEvenBackground": "{appName} verzamelt uw locatie wanneer u beschikbaar bent voor leveringen, zodat de klant de dichtstbijzijnde koeriers kan vinden, zelfs wanneer de applicatie is gesloten (op de achtergrond) of niet in gebruik is.",
+    "@appCollectsLocationEvenBackground": {
+        "placeholders": {
+            "appName": {
+                "type": "String"
+            }
+        }
+    },
+    "locationRequired": "Locatie vereist",
+    "enableLocationContinue": "Locatie inschakelen om door te gaan",
+    "activate": "Activeren",
+    "goToSettings": "Ga naar Instellingen",
+    "acessLocationAllTheTime": "Altijd toegang tot locatie",
+    "allowAppAcessLocationAllTimesContinue": "Geef de app altijd toegang tot je locatie om door te gaan",
+    "clickOnAdressOpenInMap": "Klik op het adres om het op de kaart te openen",
+    "collect": "Verzamelen",
+    "returnCollectLocation": "Keer terug naar de afhaallocatie",
+    "pickupAddressNotProvidedContactCustomer": "Ophaaladres niet opgegeven, neem contact op met de klant.",
+    "accept": "Aanvaarden",
+    "refuse": "Weigeren",
+    "cancelOrder": "Annuleer bestelling",
+    "finalizeOrder": "Bestelling afronden",
+    "markDelivered": "Markt zoals geleverd",
+    "orderCollected": "Bestelling opgehaald",
+    "orderStatus": "Bestelstatus",
+    "courierValue": "Koerierswaarde",
+    "appFee": "App-kosten",
+    "note": "Opmerking",
+    "returnCollectionLocation": "Keer terug naar de afhaallocatie",
+    "estimatedDistance": "Geschatte afstand",
+    "addresses": "Adressen",
+    "select": "Selecteer",
+    "returnn": "Opbrengst",
+    "finalize": "Afronden",
+    "deliveryConfirmedSelectedAddress": "De levering is bevestigd op het geselecteerde adres.",
+    "orderMarkedAs": "De bestelling is gemarkeerd als:",
+    "orderRequiredReturningFinalizeOnlyAfterArrived": "De bestelling moet worden teruggebracht naar de afhaallocatie, pas af nadat u op de locatie bent aangekomen.",
+    "selectWhichAddressDeliveryMade": "Selecteer op welk adres de levering is gedaan",
+    "orderWillBeCanceledAmountRefundedSure": "De Bestelling wordt geannuleerd en deze actie is onomkeerbaar. Het bedrag wordt teruggestort aan de klant en wij zullen u op de hoogte stellen van de annulering. Weet je zeker dat je door wilt gaan?",
+    "camera": "Camera",
+    "gallery": "Galerij",
+    "updatePhoto": "Foto bijwerken",
+    "cameraAccess": "Cameratoegang",
+    "galleryAccess": "Toegang tot Galerij",
+    "allowAppAccessThe": "Geef de app toegang tot het {accessType} om foto's te kunnen verzenden",
+    "@allowAppAccessThe": {
+        "description": "Toegang te verlenen",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "Er is een fout opgetreden bij het verzenden van de afbeelding.",
+    "balanceDue": "Verschuldigd saldo",
+    "pay": "Betalen",
+    "feeNotPaydOfflinePayment": "10% toeslag nog niet betaald voor bestellingen met offline betaling.",
+    "failedUpdate": "Bijwerken mislukt",
+    "dataUpdatedSuccessfully": "Gegevens succesvol bijgewerkt",
+    "and": "en",
+    "kilometer": "Kilometer",
+    "mile": "Mijl",
+    "km": "km",
+    "mi": "Mi",
+    "signinWith": "Log in met {socialNetwork}",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "Telefoonnummer vereist",
+    "pending": "In afwachting",
+    "accepted": "Geaccepteerd",
+    "rejected": "Afgekeurd",
+    "collected": "verzameld",
+    "delivered": "Geleverd",
+    "cancelled": "Geannuleerd",
+    "andMoreLocations": "en meer {quantity} locaties",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "Voltooid",
+    "deletingYourAccont": "Uw account verwijderen",
+    "deleteAccount": "Account verwijderen",
+    "deleteMyAccount": "Verwijder mijn account",
+    "reallyWantDeleteAccontDataWillBeLost": "Wil je echt je account verwijderen? Uw gegevens gaan definitief verloren.",
+    "chatWithCustomer": "Chatten met klant",
+    "noMessages": "Geen berichten",
+    "enterAMessage": "Voer een bericht in"
+}

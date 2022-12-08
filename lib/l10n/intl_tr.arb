@@ -1,0 +1,331 @@
+{
+    "home": "Ev",
+    "login": "Giriş yapmak",
+    "logout": "Çıkış Yap",
+    "theName": "İsim",
+    "name": "İsim",
+    "fullName": "Ad Soyad",
+    "enterFullName": "Ad ve soyadınızı girin",
+    "phone": "Telefon",
+    "thePhone": "Telefon",
+    "enterPhoneCorrectly": "Telefonunuzu doğru girin",
+    "enterFullPhoneNumber": "Telefonunuzun tamamını girin",
+    "fantasyName": "fantezi adı",
+    "enterCompanyName": "Şirket adını girin",
+    "email": "E-posta",
+    "enterEmail": "E-postanızı giriniz",
+    "enterValidEmail": "Geçerli bir e-posta giriniz",
+    "emailNotFound": "Email bulunamadı",
+    "waitSendLinkAgain": "Bağlantıyı tekrar göndermek için bekleyin",
+    "password": "Şifre",
+    "thePassword": "bir senha",
+    "enterPassword": "Şifrenizi girin",
+    "enterPasswordConfirmation": "Şifre onayını girin",
+    "confirmPassword": "Parolanızı doğrulayın",
+    "passwordsNotMatch": "Parolalar uyuşmuyor",
+    "incorrectEmailPassword": "yanlış eposta adresi veya şifre",
+    "forgetPassword": "Şifreni mi unuttun?",
+    "loginRequired": "Oturum açmak gereklidir",
+    "errorLogin": "Giriş yaparken hata",
+    "errorRegister": "Kayıt olurken hata",
+    "save": "Kaydetmek",
+    "dontHaveAccount": "Hesabınız yok mu?",
+    "createAccount": "Üye olmak",
+    "registerAsCourier": "Kurye olarak kaydolun",
+    "haveAnAccount": "Bir hesabınız var mı?",
+    "signIn": "Kayıt olmak",
+    "skipForNow": "Şimdilik geç",
+    "skip": "Atlamak",
+    "verifyConnection": "İnternet bağlantınızı doğrulayın",
+    "rememberMe": "Beni hatırla",
+    "menu": "Menü",
+    "wantSignOut": "Çıkış yapmak ister misiniz?",
+    "yes": "Evet",
+    "no": "Numara",
+    "theme": "Tema",
+    "darkTheme": "Karanlık tema",
+    "lightTheme": "hafif tema",
+    "sendLink": "Bağlantıyı gönder",
+    "linkSubmitted": "Bağlantı gönderildi",
+    "errorSendingLink": "Bağlantı gönderilirken hata oluştu",
+    "linkCopied": "Bağlantı kopyalandı",
+    "orders": "Emirler",
+    "order": "Emir",
+    "noOrders": "sipariş bulunamadı",
+    "errorGettingOrder": "Sipariş alınırken hata oluştu",
+    "orderNotFound": "Sipariş bulunamadı",
+    "recentOrders": "Son Siparişler",
+    "hours": "Saat",
+    "minutes": "dakika",
+    "delivery": "Teslimat",
+    "pickup": "Almak",
+    "table": "Masa",
+    "dateFormat": "yyyy-AA-gg",
+    "datetimeFormat": "yyyy-AA-gg SS:dd",
+    "seeFullOrder": "Tam siparişe bakın",
+    "paymentMethod": "Ödeme şekli",
+    "paymentStatus": "Ödeme durumu",
+    "deliveryMethod": "Teslimat Yöntemi",
+    "tracking": "izleme",
+    "details": "Detaylar",
+    "products": "Ürün:% s",
+    "inProgress": "devam ediyor",
+    "finalized": "kesinleşti",
+    "customer": "Müşteri",
+    "value": "Tutar",
+    "totalAmount": "Toplam tutar",
+    "subtotal": "ara toplam",
+    "deliveryFee": "Teslimat ücreti",
+    "coupon": "Kupon",
+    "advanceStatus": "avans durumu",
+    "deleteLastStatus": "Son durumu sil",
+    "inputMinimumSize": "{fieldName} en az {requiredSize} karakter uzunluğunda olmalıdır",
+    "@inputMinimumSize": {
+        "description": "Alanın minimum boyutu",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "Şifre"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "navigation": "Navigasyon",
+    "receiveDeliveries": "Teslimatları Al",
+    "errorUpdateStatus": "Durum yenilenirken bir hata oluştu, lütfen tekrar deneyin",
+    "errorChangeStatus": "Durum değiştirilirken bir hata oluştu, lütfen tekrar deneyin",
+    "linkDeliveries": "Teslimat Bağlantısı",
+    "yourRideValueSetByYouOrSystemDefault": "Sürüş değeriniz sizin tarafınızdan belirlenir veya sistem varsayılan değerini kullanabilirsiniz.",
+    "next": "Sonraki",
+    "weDontProfitFromYou": "senden kâr etmiyoruz",
+    "youReceiveWhatYouSetInYourValues": "Değerlerinizde tam olarak belirlediğiniz şeyi alırsınız ve müşterinin ödediği tutara %10 gibi küçük bir ücret ekleriz.",
+    "yourLinkOrderDirectlyWithYou": "Doğrudan sizinle sipariş vermek için bağlantınız",
+    "sendToCustomersAlreadyTrustWorkOrdersFallToYou": "Zaten işinize güvenen müşterilere gönderin ve siparişleri doğrudan size düşüyor.",
+    "muchMoreThoughtCourier": "Sizin için çok daha fazla düşünce kurye!",
+    "possibilityCreateDeliveryTeamMultipleOrder": "Uygulama içinde teslimat ekibinizi oluşturma, birden fazla siparişi yerine getirme ve çok daha fazlasını yapma imkanı!",
+    "haveDriversLicenseInHandCompleteRegistration": "Şimdi, kaydı tamamlamak için ehliyetinizi elinize alın.",
+    "letsStart": "Hadi başlayalım",
+    "selectAccountType": "Hesap Türünü Seçin",
+    "proceedRegistration": "Kayıt işlemine devam edin",
+    "onlyOrderViaLink": "Sadece bağlantı üzerinden siparişler",
+    "ordersLinkPanel": "Bağlantı ve panel ile siparişler",
+    "allowsDeviceCompleteAccountReceiveOrdersOrJustLink": "Entrejax, eksiksiz bir hesaba sahip olmak ve size yakın siparişler almak mı yoksa sadece bağlantı yoluyla (kiminle paylaştığınız) sipariş almak mı istediğinize karar vermenize olanak tanır.",
+    "receiveOrderEntrejaxAndLink": "Entrejax panosundan siparişleri alın ve bağlantımı alın",
+    "receiveOrderLinkOnly": "Sadece benim bağlantım üzerinden sipariş al",
+    "optionAutomaticallyReceiveOrdersPanelAndHaveLink": "Bu seçenekte, bağlantınıza sahip olmayan müşterilerden bile Entrejax panelinden siparişleri otomatik olarak alabileceksiniz, ancak belgelerinizi doğrulamamız ve onaylamamız gerekecek.",
+    "optionMustShareLink": "Bu seçenekte, yalnızca bağlantınıza sahip olan müşteriler bunu isteyebilecektir. Bağlantınızı müşterilerinizle paylaşmalısınız ve yakındaki teslimatlar için Entrejax panosunda görünmeyecektir.",
+    "registration": "Kayıt",
+    "register": "Kayıt ol",
+    "wantToLeaveRegistration": "Kayıttan çıkmak istiyor musunuz?",
+    "exitingRegistrationDataLost": "Kayıttan çıkıldığında, girilen tüm veriler kaybolacaktır.",
+    "cancel": "İptal",
+    "declareHaveReadAgreed": "Kaydolarak, sözleşmemizi okuduğunuzu ve kabul ettiğinizi beyan etmiş olursunuz.",
+    "termsUsePrivacyPolicy": "Kullanım ve gizlilik politikası şartları",
+    "leave": "Terk etmek",
+    "youDontHaveAnyOrders": "Hiç siparişiniz yok",
+    "newOrderReceived": "Yeni Sipariş Alındı!",
+    "searchingOrders": "Sipariş Arama",
+    "receiveOrders": "Sipariş Al",
+    "noLocationPermission": "Konum izni yok",
+    "errorFetchingStatus": "Durum getirilirken hata oluştu",
+    "errorConnectingMercadoPago": "Mercado Pago'ya bağlanırken hata oluştu",
+    "errorDisconnectingAccount": "Hesap bağlantısı kesilirken hata oluştu",
+    "errorUpdatingSetting": "Ayarlar güncellenirken hata oluştu",
+    "loadMore": "Daha fazla yükle",
+    "requestedBy": "tarafından talep edildi",
+    "pickupAddress": "Adresi almak",
+    "deliveryAddress": "Teslimat adresi",
+    "deliveryAddresses": "Teslimat adresleri",
+    "viewCompleteOrder": "Tam Siparişi Görüntüle",
+    "termsUse": "Kullanım Şartları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "tryAgain": "Tekrar deneyin",
+    "support": "Destek",
+    "accountSupport": "Hesap desteği",
+    "disconnected": "Bağlantı kesildi",
+    "connected": "bağlı",
+    "connect": "Bağlamak",
+    "disconnect": "bağlantıyı kes",
+    "connectMyMercadoPago": "Mercado Pago'mu bağla",
+    "waitConnecting": "Lütfen bekleyin, bağlanıyor",
+    "continuee": "Devam et",
+    "saveValues": "Değerleri Kaydet",
+    "feeEachAdditionalStop": "Güzergah üzerindeki her ilave durak için ücret",
+    "enterFeePerStop": "Durak başına ücreti girin",
+    "feePerStop": "Durak Başına Ücret",
+    "valueReturnPickupSite": "Teslim alma sitesine dönüşün {distanceUnit} değeri",
+    "@valueReturnPickupSite": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterValueReturn": "{distanceUnit} dönüşünün değerini girin",
+    "@enterValueReturn": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "returnDistance": "{distanceUnit} döndür",
+    "@returnDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "valueAdditionalBaseDistance": "Temel mesafenin ek {distanceUnit} başına değer",
+    "@valueAdditionalBaseDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterDistanceValue": "{distanceUnit} değerini girin",
+    "@enterDistanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "distanceValue": "{distanceUnit} Değeri",
+    "@distanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "initialValueWithoutChargingAdditional": "Başlangıç değerinin ek {distanceUnit} ücreti ödemeden yetkilendireceği {distanceUnit}(ler)",
+    "@initialValueWithoutChargingAdditional": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterBaseDistance": "Taban mesafesini girin",
+    "baseDistance": "Taban mesafesi",
+    "amountInitiallyCharged": "Başlangıçta tahsil edilen tutar",
+    "enterBaseAmount": "Temel tutarı girin",
+    "baseAmount": "Baz miktar",
+    "attention": "Dikkat",
+    "theValuesWillResetAppBase": "Girilen değerler, uygulamanın temel değerine sıfırlanacak. Devam etmek istiyor musunuz?",
+    "useAppBaseValue": "Uygulama temel değerini kullan",
+    "configureDeliveryFeeValues": "Teslimat ücreti değerlerinizi yapılandırın",
+    "needCreditCardMachineOrderMercadoPagoDiscount": "Kredi kartı makinesine mi ihtiyacınız var? Buraya dokunarak Mercado Pago'dan %83'e varan indirimle sipariş edin",
+    "activateOfflinePaymentDebitCard": "Banka Kartı ile Çevrimdışı Ödemeyi Etkinleştir (makinenizin olması gerekir)",
+    "activateOfflinePaymentCreditCard": "Kredi Kartı ile Çevrimdışı Ödemeyi Etkinleştir (makinenizin olması gerekir)",
+    "activateCashPayment": "Nakit Ödemeyi Etkinleştir",
+    "activateOnlyPaymentMercadoPago": "Mercado Pago ile Çevrimiçi Ödemeyi Etkinleştir (ödeme, yukarıda bağlı Mercado Pago hesabına anında gönderilir)",
+    "settingHaveBeenSaved": "Ayarlar kaydedildi",
+    "errorUpdatingPaymentMethods": "Ödeme yöntemleri güncellenirken bir hata oluştu",
+    "agree": "Kabul etmek",
+    "disagree": "Aynı fikirde olmamak",
+    "noPermissions": "izin yokmu",
+    "appCollectsLocationEvenBackground": "{appName}, uygulama kapalı (arka planda) veya kullanımda değilken bile müşterinin en yakın kuryeleri bulmasını sağlamak için teslimat için uygun olduğunuzda konumunuzu toplar.",
+    "@appCollectsLocationEvenBackground": {
+        "placeholders": {
+            "appName": {
+                "type": "String"
+            }
+        }
+    },
+    "locationRequired": "Konum Gerekli",
+    "enableLocationContinue": "Devam etmek için konumu etkinleştir",
+    "activate": "etkinleştir",
+    "goToSettings": "Ayarlara git",
+    "acessLocationAllTheTime": "Her Zaman Konum Erişimi",
+    "allowAppAcessLocationAllTimesContinue": "Devam etmek için uygulamanın konumunuza her zaman erişmesine izin verin",
+    "clickOnAdressOpenInMap": "Haritada açmak için adrese tıklayın",
+    "collect": "Toplamak",
+    "returnCollectLocation": "Toplama Konumuna Dön",
+    "pickupAddressNotProvidedContactCustomer": "Teslim alma adresi sağlanmadı, lütfen müşteriyle iletişime geçin.",
+    "accept": "Kabul",
+    "refuse": "Reddetmek",
+    "cancelOrder": "Siparişi iptal et",
+    "finalizeOrder": "Siparişi Sonlandır",
+    "markDelivered": "Teslimat Olarak Pazar",
+    "orderCollected": "Sipariş Toplandı",
+    "orderStatus": "Sipariş durumu",
+    "courierValue": "Kurye Değeri",
+    "appFee": "Uygulama Ücreti",
+    "note": "Not",
+    "returnCollectionLocation": "Toplama Konumuna Dön",
+    "estimatedDistance": "Tahmini Mesafe",
+    "addresses": "adresler",
+    "select": "Seçme",
+    "returnn": "Dönüş",
+    "finalize": "Sonuçlandırmak",
+    "deliveryConfirmedSelectedAddress": "Seçilen adrese teslimat onaylandı.",
+    "orderMarkedAs": "Sipariş olarak işaretlendi",
+    "orderRequiredReturningFinalizeOnlyAfterArrived": "Sipariş, toplama yerine geri dönmeyi gerektirir, ancak siz konuma ulaştıktan sonra kesinleşir.",
+    "selectWhichAddressDeliveryMade": "Teslimatın hangi adrese yapıldığını seçin",
+    "orderWillBeCanceledAmountRefundedSure": "Sipariş iptal edilecek ve bu işlem geri alınamaz. Tutar müşteriye iade edilecek ve iptali size bildireceğiz. Devam etmek istediğine emin misin?",
+    "camera": "Kamera",
+    "gallery": "Galeri",
+    "updatePhoto": "Fotoğrafı Güncelle",
+    "cameraAccess": "Kamera Erişimi",
+    "galleryAccess": "Galeriye Erişim",
+    "allowAppAccessThe": "Fotoğraf gönderebilmek için uygulamanın {accessType}'a erişmesine izin verin",
+    "@allowAppAccessThe": {
+        "description": "Erişime izin vermek",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "Resim gönderilirken bir hata oluştu.",
+    "balanceDue": "Bakiye Vadesi",
+    "pay": "Ödemek",
+    "feeNotPaydOfflinePayment": "Offline ödemeli siparişlerde %10 ücret henüz ödenmemiştir.",
+    "failedUpdate": "Güncelleme başarısız oldu",
+    "dataUpdatedSuccessfully": "Veriler başarıyla güncellendi",
+    "and": "ve",
+    "kilometer": "Kilometre",
+    "mile": "Mil",
+    "km": "Km",
+    "mi": "Mi",
+    "signinWith": "{socialNetwork} ile oturum açın",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "Telefon Numarası Gerekli",
+    "pending": "Askıda olması",
+    "accepted": "Kabul edilmiş",
+    "rejected": "Reddedildi",
+    "collected": "Toplanmış",
+    "delivered": "Teslim edilmiş",
+    "cancelled": "İptal edildi",
+    "andMoreLocations": "ve daha fazla {quantity} konum",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "Tamamlanmış",
+    "deletingYourAccont": "Hesabınızı silme",
+    "deleteAccount": "Hesabı sil",
+    "deleteMyAccount": "Hesabımı sil",
+    "reallyWantDeleteAccontDataWillBeLost": "Hesabınızı gerçekten silmek istiyor musunuz? Verileriniz kalıcı olarak kaybolacak.",
+    "chatWithCustomer": "müşteri ile sohbet",
+    "noMessages": "Mesaj yok",
+    "enterAMessage": "bir mesaj girin"
+}

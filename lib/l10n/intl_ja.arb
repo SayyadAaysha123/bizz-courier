@@ -1,0 +1,331 @@
+{
+    "home": "家",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "theName": "名前",
+    "name": "名前",
+    "fullName": "フルネーム",
+    "enterFullName": "フルネームを入れて下さい",
+    "phone": "電話",
+    "thePhone": "電話",
+    "enterPhoneCorrectly": "電話番号を正しく入力してください",
+    "enterFullPhoneNumber": "電話番号を入力してください",
+    "fantasyName": "ファンタジー名",
+    "enterCompanyName": "会社名を入力してください",
+    "email": "Eメール",
+    "enterEmail": "メールアドレスを入力",
+    "enterValidEmail": "有効なメールアドレスを入力してください",
+    "emailNotFound": "メールが見つかりません",
+    "waitSendLinkAgain": "リンクの再送信を待ちます",
+    "password": "パスワード",
+    "thePassword": "せんは",
+    "enterPassword": "パスワードを入力してください",
+    "enterPasswordConfirmation": "パスワードの確認を入力してください",
+    "confirmPassword": "あなたのパスワードを確認",
+    "passwordsNotMatch": "パスワードが一致していません",
+    "incorrectEmailPassword": "メールアドレスまたはパスワードが正しくありません",
+    "forgetPassword": "パスワードを忘れましたか？",
+    "loginRequired": "ログインが必要です",
+    "errorLogin": "ログイン中のエラー",
+    "errorRegister": "登録中のエラー",
+    "save": "保存",
+    "dontHaveAccount": "アカウントをお持ちでない場合",
+    "createAccount": "サインアップ",
+    "registerAsCourier": "クーリエとして登録する",
+    "haveAnAccount": "アカウントを持っています？",
+    "signIn": "ログイン",
+    "skipForNow": "今のところスキップ",
+    "skip": "スキップ",
+    "verifyConnection": "インターネット接続を確認する",
+    "rememberMe": "私を覚えてますか",
+    "menu": "メニュー",
+    "wantSignOut": "サインアウトしますか?",
+    "yes": "はい",
+    "no": "いいえ",
+    "theme": "テーマ",
+    "darkTheme": "暗いテーマ",
+    "lightTheme": "ライトテーマ",
+    "sendLink": "リンクを送信",
+    "linkSubmitted": "リンクを送信しました",
+    "errorSendingLink": "リンクの送信エラー",
+    "linkCopied": "リンクをコピーしました",
+    "orders": "注文",
+    "order": "注文",
+    "noOrders": "注文が見つかりません",
+    "errorGettingOrder": "注文の取得中にエラーが発生しました",
+    "orderNotFound": "注文が見つかりません",
+    "recentOrders": "最近の注文",
+    "hours": "時間",
+    "minutes": "分",
+    "delivery": "配達",
+    "pickup": "選び出す",
+    "table": "テーブル",
+    "dateFormat": "yyyy-MM-dd",
+    "datetimeFormat": "yyyy-MM-dd HH:mm",
+    "seeFullOrder": "完全な注文を見る",
+    "paymentMethod": "支払方法",
+    "paymentStatus": "支払い状況",
+    "deliveryMethod": "配送方法",
+    "tracking": "追跡",
+    "details": "詳細",
+    "products": "製品",
+    "inProgress": "進行中",
+    "finalized": "ファイナライズ済み",
+    "customer": "お客様",
+    "value": "額",
+    "totalAmount": "合計金額",
+    "subtotal": "小計",
+    "deliveryFee": "配送料",
+    "coupon": "クーポン",
+    "advanceStatus": "進行状況",
+    "deleteLastStatus": "最後のステータスを削除",
+    "inputMinimumSize": "{fieldName} は {requiredSize} 文字以上にする必要があります",
+    "@inputMinimumSize": {
+        "description": "フィールドの最小サイズ",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "パスワード"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "profile": "プロフィール",
+    "settings": "設定",
+    "navigation": "ナビゲーション",
+    "receiveDeliveries": "配達を受け取る",
+    "errorUpdateStatus": "ステータスの更新中にエラーが発生しました。もう一度お試しください",
+    "errorChangeStatus": "ステータスの変更中にエラーが発生しました。もう一度お試しください",
+    "linkDeliveries": "配信へのリンク",
+    "yourRideValueSetByYouOrSystemDefault": "乗車値は自分で設定するか、システムのデフォルト値を使用できます。",
+    "next": "次",
+    "weDontProfitFromYou": "私たちはあなたから利益を得ません",
+    "youReceiveWhatYouSetInYourValues": "値に設定したものを正確に受け取り、顧客が支払った金額に 10% の少額の手数料を追加します。",
+    "yourLinkOrderDirectlyWithYou": "あなたと直接注文するためのリンク",
+    "sendToCustomersAlreadyTrustWorkOrdersFallToYou": "すでにあなたの仕事を信頼している顧客に送信し、その注文はあなたに直接届きます.",
+    "muchMoreThoughtCourier": "あなたの宅配便のためにもっと考えてください！",
+    "possibilityCreateDeliveryTeamMultipleOrder": "アプリ内で配達チームを作成したり、複数の注文を処理したりできます!",
+    "haveDriversLicenseInHandCompleteRegistration": "運転免許証を手元に用意して、登録を完了してください",
+    "letsStart": "はじめましょう",
+    "selectAccountType": "アカウントの種類を選択",
+    "proceedRegistration": "登録に進む",
+    "onlyOrderViaLink": "リンクからのご注文のみ",
+    "ordersLinkPanel": "リンクとパネルによる注文",
+    "allowsDeviceCompleteAccountReceiveOrdersOrJustLink": "Entrejax を使用すると、完全なアカウントを持ち、近くで注文を受け取るか、(共有先の) リンクを介して受け取るだけかを決定できます。",
+    "receiveOrderEntrejaxAndLink": "Entrejax ダッシュボードから注文を受け取り、私のリンクを取得する",
+    "receiveOrderLinkOnly": "私のリンクからのみ注文を受け取る",
+    "optionAutomaticallyReceiveOrdersPanelAndHaveLink": "このオプションでは、Entrejax パネルから、リンクを持っていない顧客からでも注文を自動的に受け取ることができますが、ドキュメントを確認して検証する必要があります。",
+    "optionMustShareLink": "このオプションでは、リンクを持っている顧客のみが要求できます。リンクを顧客と共有する必要があり、Entrejax ダッシュボードの近くの配達には表示されません。",
+    "registration": "登録",
+    "register": "登録",
+    "wantToLeaveRegistration": "登録をやめますか？",
+    "exitingRegistrationDataLost": "登録を終了すると、すでに入力されているすべてのデータが失われます。",
+    "cancel": "キャンセル",
+    "declareHaveReadAgreed": "登録することにより、あなたは私たちの",
+    "termsUsePrivacyPolicy": "利用規約とプライバシーポリシー",
+    "leave": "離れる",
+    "youDontHaveAnyOrders": "注文はありません",
+    "newOrderReceived": "新規ご注文受付中！",
+    "searchingOrders": "注文の検索",
+    "receiveOrders": "受注",
+    "noLocationPermission": "位置情報の許可なし",
+    "errorFetchingStatus": "ステータスの取得中にエラーが発生しました",
+    "errorConnectingMercadoPago": "メルカド パゴへの接続エラー",
+    "errorDisconnectingAccount": "アカウントの切断中にエラーが発生しました",
+    "errorUpdatingSetting": "設定の更新中にエラーが発生しました",
+    "loadMore": "もっと読み込む",
+    "requestedBy": "に要求された",
+    "pickupAddress": "アドレスをピックアップ",
+    "deliveryAddress": "配送先住所",
+    "deliveryAddresses": "配送先住所",
+    "viewCompleteOrder": "完全な注文を表示",
+    "termsUse": "利用規約",
+    "privacyPolicy": "プライバシーポリシー",
+    "tryAgain": "再試行する",
+    "support": "サポート",
+    "accountSupport": "アカウントサポート",
+    "disconnected": "切断されました",
+    "connected": "接続済み",
+    "connect": "接続",
+    "disconnect": "切断する",
+    "connectMyMercadoPago": "メルカド パゴを接続",
+    "waitConnecting": "接続中です。お待ちください",
+    "continuee": "継続する",
+    "saveValues": "値を保存",
+    "feeEachAdditionalStop": "ルート上の各追加停留所の料金",
+    "enterFeePerStop": "経由地あたりの料金を入力してください",
+    "feePerStop": "ストップごとの料金",
+    "valueReturnPickupSite": "受け取り場所までの戻りの {distanceUnit} の値",
+    "@valueReturnPickupSite": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterValueReturn": "戻り値 {distanceUnit} の値を入力してください",
+    "@enterValueReturn": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "returnDistance": "{distanceUnit} を返す",
+    "@returnDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "valueAdditionalBaseDistance": "基本距離の追加 {distanceUnit} あたりの値",
+    "@valueAdditionalBaseDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterDistanceValue": "{distanceUnit} の値を入力してください",
+    "@enterDistanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "distanceValue": "{distanceUnit} 値",
+    "@distanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "initialValueWithoutChargingAdditional": "追加の {distanceUnit} を課金せずに初期値が付与される {distanceUnit}(s)",
+    "@initialValueWithoutChargingAdditional": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterBaseDistance": "基準距離を入力してください",
+    "baseDistance": "ベース距離",
+    "amountInitiallyCharged": "最初に請求される金額",
+    "enterBaseAmount": "基本金額を入力",
+    "baseAmount": "基準額",
+    "attention": "注意",
+    "theValuesWillResetAppBase": "入力した値は、アプリの基本値にリセットされます。続行しますか?",
+    "useAppBaseValue": "アプリベース値を使用",
+    "configureDeliveryFeeValues": "配送料の値を設定する",
+    "needCreditCardMachineOrderMercadoPagoDiscount": "クレジットカード機が必要ですか？ここをタップして最大 83% オフの Mercado Pago から注文してください",
+    "activateOfflinePaymentDebitCard": "デビットカードでオフライン決済を有効にします (マシンが必要です)",
+    "activateOfflinePaymentCreditCard": "クレジットカードでオフライン決済を有効にします（マシンが必要です）",
+    "activateCashPayment": "現金支払いを有効にする",
+    "activateOnlyPaymentMercadoPago": "Mercado Pago でのオンライン支払いを有効にします (支払いは、上記で接続された Mercado Pago アカウントに即座に送信されます)",
+    "settingHaveBeenSaved": "設定が保存されました",
+    "errorUpdatingPaymentMethods": "お支払い方法の更新中にエラーが発生しました",
+    "agree": "同意",
+    "disagree": "同意しない",
+    "noPermissions": "権限なし",
+    "appCollectsLocationEvenBackground": "{appName} は、アプリケーションが (バックグラウンドで) 閉じられている場合や使用されていない場合でも、顧客が最寄りの配送業者を見つけることができるように、配達可能なときにあなたの場所を収集します。",
+    "@appCollectsLocationEvenBackground": {
+        "placeholders": {
+            "appName": {
+                "type": "String"
+            }
+        }
+    },
+    "locationRequired": "場所が必要です",
+    "enableLocationContinue": "続行するには位置情報を有効にしてください",
+    "activate": "活性化",
+    "goToSettings": "設定に移動",
+    "acessLocationAllTheTime": "いつでも場所にアクセス",
+    "allowAppAcessLocationAllTimesContinue": "続行するには、常に位置情報へのアクセスをアプリに許可してください",
+    "clickOnAdressOpenInMap": "住所をクリックすると地図で開きます",
+    "collect": "収集",
+    "returnCollectLocation": "回収場所に戻る",
+    "pickupAddressNotProvidedContactCustomer": "集荷先住所が提供されていません。顧客に連絡してください。",
+    "accept": "承認",
+    "refuse": "ごみ",
+    "cancelOrder": "注文をキャンセルする",
+    "finalizeOrder": "注文を確定する",
+    "markDelivered": "出荷時市場",
+    "orderCollected": "注文が収集されました",
+    "orderStatus": "注文の状況",
+    "courierValue": "クーリエ値",
+    "appFee": "アプリ料金",
+    "note": "ノート",
+    "returnCollectionLocation": "回収場所に戻る",
+    "estimatedDistance": "推定距離",
+    "addresses": "住所",
+    "select": "選択する",
+    "returnn": "戻る",
+    "finalize": "ファイナライズ",
+    "deliveryConfirmedSelectedAddress": "選択した住所への配達が確認されました。",
+    "orderMarkedAs": "注文は次のようにマークされました",
+    "orderRequiredReturningFinalizeOnlyAfterArrived": "注文は集荷場所に戻る必要があり、集荷場所に到着してから確定してください。",
+    "selectWhichAddressDeliveryMade": "配送先住所を選択",
+    "orderWillBeCanceledAmountRefundedSure": "注文はキャンセルされ、このアクションは元に戻すことができません。金額はお客様に返金され、キャンセルの旨が通知されます。続行してもよろしいですか？",
+    "camera": "カメラ",
+    "gallery": "ギャラリー",
+    "updatePhoto": "写真を更新",
+    "cameraAccess": "カメラへのアクセス",
+    "galleryAccess": "ギャラリーへのアクセス",
+    "allowAppAccessThe": "写真を送信できるようにするには、アプリが {accessType} にアクセスすることを許可してください",
+    "@allowAppAccessThe": {
+        "description": "アクセスを許可する",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "画像の送信中にエラーが発生しました。",
+    "balanceDue": "未払い残高",
+    "pay": "支払い",
+    "feeNotPaydOfflinePayment": "オフライン決済による注文の 10% の手数料はまだ支払われていません。",
+    "failedUpdate": "更新できませんでした",
+    "dataUpdatedSuccessfully": "データが正常に更新されました",
+    "and": "と",
+    "kilometer": "キロメートル",
+    "mile": "マイル",
+    "km": "キロ",
+    "mi": "ミ",
+    "signinWith": "{socialNetwork} でサインイン",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "電話番号必須",
+    "pending": "保留中",
+    "accepted": "承認済み",
+    "rejected": "却下",
+    "collected": "集めました",
+    "delivered": "配達済み",
+    "cancelled": "キャンセル",
+    "andMoreLocations": "その他の {quantity} か所",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "完了",
+    "deletingYourAccont": "アカウントの削除",
+    "deleteAccount": "アカウントを削除する",
+    "deleteMyAccount": "アカウントを削除します",
+    "reallyWantDeleteAccontDataWillBeLost": "本当にアカウントを削除しますか?データは完全に失われます。",
+    "chatWithCustomer": "顧客とチャット",
+    "noMessages": "メッセージがありません",
+    "enterAMessage": "メッセージを入力してください"
+}

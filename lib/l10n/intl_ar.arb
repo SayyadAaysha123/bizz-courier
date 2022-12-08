@@ -1,0 +1,331 @@
+{
+    "home": "مسكن",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل خروج",
+    "theName": "الاسم",
+    "name": "اسم",
+    "fullName": "الاسم الكامل",
+    "enterFullName": "أدخل اسمك الكامل",
+    "phone": "هاتف",
+    "thePhone": "الهاتف",
+    "enterPhoneCorrectly": "أدخل هاتفك بشكل صحيح",
+    "enterFullPhoneNumber": "أدخل رقم هاتفك بالكامل",
+    "fantasyName": "اسم الخيال",
+    "enterCompanyName": "أدخل اسم الشركة",
+    "email": "البريد الإلكتروني",
+    "enterEmail": "أدخل بريدك الإلكتروني",
+    "enterValidEmail": "أدخل بريد إلكتروني متاح",
+    "emailNotFound": "البريد الإلكتروني غير موجود",
+    "waitSendLinkAgain": "انتظر لإرسال الرابط مرة أخرى",
+    "password": "كلمة المرور",
+    "thePassword": "أ سنها",
+    "enterPassword": "ادخل رقمك السري",
+    "enterPasswordConfirmation": "أدخل تأكيد كلمة المرور",
+    "confirmPassword": "أكد رقمك السري",
+    "passwordsNotMatch": "كلمة المرور غير مطابقة",
+    "incorrectEmailPassword": "بريد أو كلمة مرورغير صحيحة",
+    "forgetPassword": "نسيت كلمة المرور؟",
+    "loginRequired": "تسجيل الدخول مطلوب",
+    "errorLogin": "خطأ أثناء تسجيل الدخول",
+    "errorRegister": "خطأ أثناء التسجيل",
+    "save": "يحفظ",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "createAccount": "اشتراك",
+    "registerAsCourier": "سجل كساعي",
+    "haveAnAccount": "هل لديك حساب؟",
+    "signIn": "تسجيل الدخول",
+    "skipForNow": "تخطي في الوقت الراهن",
+    "skip": "يتخطى",
+    "verifyConnection": "تحقق من اتصالك بالإنترنت",
+    "rememberMe": "تذكرنى",
+    "menu": "قائمة الطعام",
+    "wantSignOut": "هل تريد تسجيل الخروج؟",
+    "yes": "نعم",
+    "no": "رقم",
+    "theme": "سمة",
+    "darkTheme": "مظهر داكن",
+    "lightTheme": "مظهر خفيف",
+    "sendLink": "إرسال الارتباط",
+    "linkSubmitted": "تم إرسال الرابط",
+    "errorSendingLink": "خطأ في إرسال الارتباط",
+    "linkCopied": "تم نسخ الارتباط",
+    "orders": "الطلب #٪ s",
+    "order": "ترتيب",
+    "noOrders": "لم يتم العثور على أية طلبات",
+    "errorGettingOrder": "خطأ في الحصول على الطلب",
+    "orderNotFound": "الطلب غير موجود",
+    "recentOrders": "الطلبيات الأخيرة",
+    "hours": "ساعات",
+    "minutes": "الدقائق",
+    "delivery": "توصيل",
+    "pickup": "يلتقط",
+    "table": "الطاولة",
+    "dateFormat": "yyyy-MM-dd",
+    "datetimeFormat": "yyyy-MM-dd HH: mm",
+    "seeFullOrder": "انظر النظام الكامل",
+    "paymentMethod": "طريقة الدفع او السداد",
+    "paymentStatus": "حالة السداد",
+    "deliveryMethod": "طريقة التوصيل",
+    "tracking": "تتبع",
+    "details": "تفاصيل",
+    "products": "منتجات",
+    "inProgress": "في التقدم",
+    "finalized": "تم الانتهاء",
+    "customer": "عميل",
+    "value": "مقدار",
+    "totalAmount": "المبلغ الإجمالي",
+    "subtotal": "المجموع الفرعي",
+    "deliveryFee": "رسوم التوصيل",
+    "coupon": "قسيمة",
+    "advanceStatus": "حالة متقدمة",
+    "deleteLastStatus": "احذف آخر حالة",
+    "inputMinimumSize": "يجب ألا يقل طول {fieldName} عن {requiredSize} من الأحرف",
+    "@inputMinimumSize": {
+        "description": "الحجم الأدنى للحقل",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "كلمة المرور"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "profile": "الملف الشخصي",
+    "settings": "إعدادات",
+    "navigation": "التنقل",
+    "receiveDeliveries": "استلام التسليمات",
+    "errorUpdateStatus": "حدث خطأ أثناء تحديث الحالة ، يرجى المحاولة مرة أخرى",
+    "errorChangeStatus": "حدث خطأ أثناء تغيير الحالة ، يرجى المحاولة مرة أخرى",
+    "linkDeliveries": "ارتباط بالتسليمات",
+    "yourRideValueSetByYouOrSystemDefault": "يتم تحديد قيمة رحلتك بواسطتك أو يمكنك استخدام القيمة الافتراضية للنظام.",
+    "next": "التالي",
+    "weDontProfitFromYou": "نحن لا نستفيد منك",
+    "youReceiveWhatYouSetInYourValues": "تتلقى بالضبط ما حددته في قيمك ونضيف رسومًا رمزية بنسبة 10٪ إلى المبلغ الذي يدفعه العميل.",
+    "yourLinkOrderDirectlyWithYou": "الرابط الخاص بك لطلب مباشرة معك",
+    "sendToCustomersAlreadyTrustWorkOrdersFallToYou": "أرسلها إلى العملاء الذين يثقون بالفعل في عملك وبهذا تقع طلباتهم مباشرة لك.",
+    "muchMoreThoughtCourier": "فكر أكثر بكثير بالنسبة لك ساعي!",
+    "possibilityCreateDeliveryTeamMultipleOrder": "إمكانية إنشاء فريق التوصيل داخل التطبيق ، وتلبية طلبات متعددة وأكثر من ذلك بكثير!",
+    "haveDriversLicenseInHandCompleteRegistration": "الآن لديك رخصة القيادة الخاصة بك في متناول اليد لإكمال التسجيل",
+    "letsStart": "لنبدأ",
+    "selectAccountType": "حدد نوع الحساب",
+    "proceedRegistration": "الشروع في التسجيل",
+    "onlyOrderViaLink": "أوامر فقط عبر الرابط",
+    "ordersLinkPanel": "الطلبات عن طريق الرابط واللوحة",
+    "allowsDeviceCompleteAccountReceiveOrdersOrJustLink": "يسمح لك Entrejax بتحديد ما إذا كنت ترغب في الحصول على حساب كامل وتلقي الطلبات القريبة منك أو تلقيها فقط عبر الرابط (لمن تشاركه).",
+    "receiveOrderEntrejaxAndLink": "تلقي الطلبات من Entrejax لوحة القيادة والحصول على الرابط الخاص بي",
+    "receiveOrderLinkOnly": "تلقي الطلبات من خلال الرابط الخاص بي فقط",
+    "optionAutomaticallyReceiveOrdersPanelAndHaveLink": "في هذا الخيار ، ستتمكن من تلقي الطلبات تلقائيًا من لوحة Entrejax ، حتى من العملاء الذين ليس لديهم الرابط الخاص بك ، لكننا سنحتاج إلى التحقق من مستنداتك والتحقق منها.",
+    "optionMustShareLink": "في هذا الخيار ، سيتمكن العملاء الذين لديهم الرابط الخاص بك فقط من طلب ذلك. يجب عليك مشاركة الرابط الخاص بك مع عملائك ولن يظهر للتسليمات القريبة على لوحة معلومات Entrejax.",
+    "registration": "تسجيل",
+    "register": "يسجل",
+    "wantToLeaveRegistration": "هل تريد ترك التسجيل؟",
+    "exitingRegistrationDataLost": "عند الخروج من التسجيل ، ستفقد جميع البيانات التي تم إدخالها بالفعل.",
+    "cancel": "يلغي",
+    "declareHaveReadAgreed": "بالتسجيل ، فإنك تقر بأنك قد قرأت ووافقت على",
+    "termsUsePrivacyPolicy": "شروط الاستخدام و سياسة الخصوصية",
+    "leave": "غادر",
+    "youDontHaveAnyOrders": "ليس لديك أي أوامر",
+    "newOrderReceived": "تم استلام طلب جديد!",
+    "searchingOrders": "أوامر البحث",
+    "receiveOrders": "استلام الطلبات",
+    "noLocationPermission": "لا يوجد إذن موقع",
+    "errorFetchingStatus": "خطأ في جلب الحالة",
+    "errorConnectingMercadoPago": "خطأ في الاتصال بـ Mercado Pago",
+    "errorDisconnectingAccount": "خطأ في فصل الحساب",
+    "errorUpdatingSetting": "خطأ في تحديث الإعدادات",
+    "loadMore": "تحميل المزيد",
+    "requestedBy": "بتوصية من",
+    "pickupAddress": "عنوان الاستلام",
+    "deliveryAddress": "عنوان التسليم",
+    "deliveryAddresses": "عناوين التسليم",
+    "viewCompleteOrder": "مشاهدة الطلب الكامل",
+    "termsUse": "شروط الاستخدام",
+    "privacyPolicy": "سياسة الخصوصية",
+    "tryAgain": "حاول ثانية",
+    "support": "الدعم",
+    "accountSupport": "دعم الحساب",
+    "disconnected": "انقطع الاتصال",
+    "connected": "متصل",
+    "connect": "الاتصال",
+    "disconnect": "قطع الاتصال",
+    "connectMyMercadoPago": "قم بتوصيل My Mercado Pago",
+    "waitConnecting": "يرجى الانتظار ، جاري الاتصال",
+    "continuee": "يكمل",
+    "saveValues": "حفظ القيم",
+    "feeEachAdditionalStop": "رسوم كل محطة إضافية على الطريق",
+    "enterFeePerStop": "أدخل السعر لكل محطة",
+    "feePerStop": "رسوم كل محطة",
+    "valueReturnPickupSite": "قيمة {distanceUnit} للعودة إلى موقع الالتقاء",
+    "@valueReturnPickupSite": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterValueReturn": "أدخل قيمة العائد {distanceUnit}",
+    "@enterValueReturn": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "returnDistance": "العودة {distanceUnit}",
+    "@returnDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "valueAdditionalBaseDistance": "القيمة لكل {distanceUnit} إضافية من المسافة الأساسية",
+    "@valueAdditionalBaseDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterDistanceValue": "أدخل قيمة {distanceUnit}",
+    "@enterDistanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "distanceValue": "قيمة {distanceUnit}",
+    "@distanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "initialValueWithoutChargingAdditional": "{distanceUnit} (s) التي ستخولها القيمة الأولية دون فرض رسوم إضافية على {distanceUnit}",
+    "@initialValueWithoutChargingAdditional": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterBaseDistance": "أدخل المسافة الأساسية",
+    "baseDistance": "المسافة الأساسية",
+    "amountInitiallyCharged": "المبلغ المشحون في البداية",
+    "enterBaseAmount": "أدخل المبلغ الأساسي",
+    "baseAmount": "كمية أساسية",
+    "attention": "انتباه",
+    "theValuesWillResetAppBase": "ستتم إعادة تعيين القيم التي تم إدخالها إلى القيمة الأساسية للتطبيق. هل ترغب في الاستمرار؟",
+    "useAppBaseValue": "استخدم القيمة الأساسية للتطبيق",
+    "configureDeliveryFeeValues": "تكوين قيم رسوم التسليم الخاصة بك",
+    "needCreditCardMachineOrderMercadoPagoDiscount": "هل تحتاج إلى آلة بطاقة ائتمان؟ اطلب واحدة من Mercado Pago بخصم يصل إلى 83٪ بالنقر هنا",
+    "activateOfflinePaymentDebitCard": "قم بتنشيط الدفع دون الاتصال بالإنترنت باستخدام بطاقة الخصم (يجب أن يكون لديك جهازك)",
+    "activateOfflinePaymentCreditCard": "قم بتنشيط الدفع دون الاتصال بالإنترنت باستخدام بطاقة الائتمان (يجب أن يكون لديك جهازك)",
+    "activateCashPayment": "تفعيل الدفع النقدي",
+    "activateOnlyPaymentMercadoPago": "قم بتنشيط الدفع عبر الإنترنت مع Mercado Pago (يتم إرسال الدفع على الفور إلى حساب Mercado Pago المتصل أعلاه)",
+    "settingHaveBeenSaved": "تم حفظ الإعدادات",
+    "errorUpdatingPaymentMethods": "حدث خطأ أثناء تحديث طرق الدفع",
+    "agree": "يوافق على",
+    "disagree": "تعارض",
+    "noPermissions": "لا أذونات",
+    "appCollectsLocationEvenBackground": "يجمع {appName} موقعك عندما تكون متاحًا للتسليم للسماح للعميل بالعثور على أقرب شركات نقل حتى عندما يكون التطبيق مغلقًا (في الخلفية) أو غير مستخدم.",
+    "@appCollectsLocationEvenBackground": {
+        "placeholders": {
+            "appName": {
+                "type": "String"
+            }
+        }
+    },
+    "locationRequired": "الموقع مطلوب",
+    "enableLocationContinue": "تمكين الموقع للمتابعة",
+    "activate": "تفعيل",
+    "goToSettings": "اذهب للاعدادات",
+    "acessLocationAllTheTime": "الوصول إلى الموقع طوال الوقت",
+    "allowAppAcessLocationAllTimesContinue": "اسمح للتطبيق بالوصول إلى موقعك في جميع الأوقات للمتابعة",
+    "clickOnAdressOpenInMap": "اضغط على العنوان لفتحه على الخريطة",
+    "collect": "يجمع",
+    "returnCollectLocation": "العودة إلى موقع المجموعة",
+    "pickupAddressNotProvidedContactCustomer": "لم يتم توفير عنوان الاستلام ، يرجى الاتصال بالعميل.",
+    "accept": "قبول",
+    "refuse": "رفض",
+    "cancelOrder": "الغاء الطلب",
+    "finalizeOrder": "إنهاء الطلب",
+    "markDelivered": "السوق كما تم التسليم",
+    "orderCollected": "تم جمع الطلب",
+    "orderStatus": "حالة الطلب",
+    "courierValue": "قيمة البريد السريع",
+    "appFee": "رسوم التطبيق",
+    "note": "ملحوظة",
+    "returnCollectionLocation": "العودة إلى موقع المجموعة",
+    "estimatedDistance": "المسافة المقدرة",
+    "addresses": "عناوين",
+    "select": "يختار",
+    "returnn": "يعود",
+    "finalize": "وضع اللمسات الأخيرة",
+    "deliveryConfirmedSelectedAddress": "تم تأكيد التسليم على العنوان المحدد.",
+    "orderMarkedAs": "تم وضع علامة على الطلب كـ",
+    "orderRequiredReturningFinalizeOnlyAfterArrived": "يتطلب الأمر العودة إلى موقع التجميع ، والانتهاء من ذلك فقط بعد وصولك إلى الموقع.",
+    "selectWhichAddressDeliveryMade": "حدد العنوان الذي تم التوصيل إليه",
+    "orderWillBeCanceledAmountRefundedSure": "سيتم إلغاء الطلب وهذا الإجراء لا رجوع فيه. سيتم إعادة المبلغ إلى العميل وسنخطرك بالإلغاء. هل أنت متأكد أنك تريد الاستمرار؟",
+    "camera": "آلة تصوير",
+    "gallery": "صالة عرض",
+    "updatePhoto": "تحديث الصورة",
+    "cameraAccess": "الوصول إلى الكاميرا",
+    "galleryAccess": "الوصول إلى المعرض",
+    "allowAppAccessThe": "اسمح للتطبيق بالوصول إلى {accessType} لتتمكن من إرسال الصور",
+    "@allowAppAccessThe": {
+        "description": "السماح بالمرور",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "كان هناك خطأ في إرسال الصورة.",
+    "balanceDue": "الرصيد المستحق",
+    "pay": "يدفع",
+    "feeNotPaydOfflinePayment": "10٪ رسوم لم يتم دفعها بعد للطلبات مع الدفع دون اتصال بالإنترنت.",
+    "failedUpdate": "اخفاق التحديث",
+    "dataUpdatedSuccessfully": "تم تحديث البيانات بنجاح",
+    "and": "و",
+    "kilometer": "كيلومتر",
+    "mile": "ميل",
+    "km": "كم",
+    "mi": "مي",
+    "signinWith": "تسجيل الدخول باستخدام {socialNetwork}",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "رقم الهاتف مطلوب",
+    "pending": "قيد الانتظار",
+    "accepted": "وافقت",
+    "rejected": "مرفوض",
+    "collected": "جمعت",
+    "delivered": "تم التوصيل",
+    "cancelled": "ألغيت",
+    "andMoreLocations": "والمزيد من المواقع {quantity}",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "مكتمل",
+    "deletingYourAccont": "حذف حسابك",
+    "deleteAccount": "حذف الحساب",
+    "deleteMyAccount": "احذف حسابي",
+    "reallyWantDeleteAccontDataWillBeLost": "هل تريد حقا حذف حسابك؟ ستفقد بياناتك بشكل دائم.",
+    "chatWithCustomer": "الدردشة مع العملاء",
+    "noMessages": "لا رسائل",
+    "enterAMessage": "أدخل رسالة"
+}

@@ -1,0 +1,331 @@
+{
+    "home": "家",
+    "login": "登录",
+    "logout": "登出",
+    "theName": "名字",
+    "name": "姓名",
+    "fullName": "全名",
+    "enterFullName": "输入您的全名",
+    "phone": "电话",
+    "thePhone": "电话",
+    "enterPhoneCorrectly": "正确输入您的手机",
+    "enterFullPhoneNumber": "输入您的完整手机",
+    "fantasyName": "幻想名称",
+    "enterCompanyName": "输入公司名称",
+    "email": "电子邮件",
+    "enterEmail": "输入你的电子邮箱",
+    "enterValidEmail": "输入有效的电子邮件",
+    "emailNotFound": "电子邮件没有找到",
+    "waitSendLinkAgain": "等待再次发送链接",
+    "password": "密码",
+    "thePassword": "一个senha",
+    "enterPassword": "输入您的密码",
+    "enterPasswordConfirmation": "输入密码确认",
+    "confirmPassword": "确认你的密码",
+    "passwordsNotMatch": "密码不匹配",
+    "incorrectEmailPassword": "错误的邮箱帐号或密码",
+    "forgetPassword": "忘记密码？",
+    "loginRequired": "要求登录",
+    "errorLogin": "登录时出错",
+    "errorRegister": "注册时出错",
+    "save": "节省",
+    "dontHaveAccount": "没有帐户？",
+    "createAccount": "注册",
+    "registerAsCourier": "注册为快递员",
+    "haveAnAccount": "有一个账户？",
+    "signIn": "登入",
+    "skipForNow": "暂时跳过",
+    "skip": "跳过",
+    "verifyConnection": "验证您的互联网连接",
+    "rememberMe": "记得我",
+    "menu": "菜单",
+    "wantSignOut": "想要退出？",
+    "yes": "是的",
+    "no": "不",
+    "theme": "主题",
+    "darkTheme": "深色主题",
+    "lightTheme": "轻主题",
+    "sendLink": "提交链接",
+    "linkSubmitted": "链接已提交",
+    "errorSendingLink": "发送链接出错",
+    "linkCopied": "链接已复制",
+    "orders": "订单",
+    "order": "命令",
+    "noOrders": "未找到订单",
+    "errorGettingOrder": "获取订单时出错",
+    "orderNotFound": "未找到订单",
+    "recentOrders": "最近的订单",
+    "hours": "小时",
+    "minutes": "分钟",
+    "delivery": "送货",
+    "pickup": "捡起",
+    "table": "桌子",
+    "dateFormat": "yyyy-MM-dd",
+    "datetimeFormat": "yyyy-MM-dd HH:mm",
+    "seeFullOrder": "查看完整订单",
+    "paymentMethod": "付款方式",
+    "paymentStatus": "支付状态",
+    "deliveryMethod": "运输方式",
+    "tracking": "追踪",
+    "details": "细节",
+    "products": "产品",
+    "inProgress": "进行中",
+    "finalized": "定稿",
+    "customer": "顾客",
+    "value": "数量",
+    "totalAmount": "总金额",
+    "subtotal": "小计",
+    "deliveryFee": "送货费",
+    "coupon": "优惠券",
+    "advanceStatus": "提前状态",
+    "deleteLastStatus": "删除最后状态",
+    "inputMinimumSize": "{fieldName} 的长度必须至少为 {requiredSize} 个字符",
+    "@inputMinimumSize": {
+        "description": "最小字段大小",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "密码"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "profile": "轮廓",
+    "settings": "设置",
+    "navigation": "导航",
+    "receiveDeliveries": "接收交货",
+    "errorUpdateStatus": "刷新状态时出错，请重试",
+    "errorChangeStatus": "更改状态时出错，请重试",
+    "linkDeliveries": "链接到交货",
+    "yourRideValueSetByYouOrSystemDefault": "您的乘车值由您设置，也可以使用系统默认值。",
+    "next": "下一个",
+    "weDontProfitFromYou": "我们不从你那里获利",
+    "youReceiveWhatYouSetInYourValues": "您收到的正是您在价值观中设定的内容，我们会在客户支付的金额中添加 10% 的小额费用。",
+    "yourLinkOrderDirectlyWithYou": "您直接向您订购的链接",
+    "sendToCustomersAlreadyTrustWorkOrdersFallToYou": "将其发送给已经信任您的工作并且他们的订单直接落到您手中的客户。",
+    "muchMoreThoughtCourier": "为您的快递员考虑更多！",
+    "possibilityCreateDeliveryTeamMultipleOrder": "可以在应用程序中创建您的交付团队，完成多个订单等等！",
+    "haveDriversLicenseInHandCompleteRegistration": "现在拿着你的驾照来完成注册",
+    "letsStart": "开始吧",
+    "selectAccountType": "选择账户类型",
+    "proceedRegistration": "进行注册",
+    "onlyOrderViaLink": "仅通过链接订购",
+    "ordersLinkPanel": "通过链接和面板订购",
+    "allowsDeviceCompleteAccountReceiveOrdersOrJustLink": "Entrejax 允许您决定是想要拥有一个完整的帐户并在您附近接收订单，还是仅通过链接（您分享给谁）接收订单。",
+    "receiveOrderEntrejaxAndLink": "从 Entrejax 仪表板接收订单并获取我的链接",
+    "receiveOrderLinkOnly": "仅通过我的链接接收订单",
+    "optionAutomaticallyReceiveOrdersPanelAndHaveLink": "在此选项中，您将能够自动接收来自 Entrejax 面板的订单，即使是来自没有您的链接的客户，但我们需要验证和验证您的文件。",
+    "optionMustShareLink": "在此选项中，只有拥有您的链接的客户才能请求它。您必须与您的客户分享您的链接，并且不会出现在 Entrejax 仪表板上附近的交付中。",
+    "registration": "登记",
+    "register": "登记",
+    "wantToLeaveRegistration": "你想离开注册吗？",
+    "exitingRegistrationDataLost": "退出注册后，所有已输入的数据都将丢失。",
+    "cancel": "取消",
+    "declareHaveReadAgreed": "注册即表示您已阅读并同意我们的",
+    "termsUsePrivacyPolicy": "使用条款和隐私政策",
+    "leave": "离开",
+    "youDontHaveAnyOrders": "您没有任何订单",
+    "newOrderReceived": "收到新订单！",
+    "searchingOrders": "搜索订单",
+    "receiveOrders": "接收订单",
+    "noLocationPermission": "没有位置权限",
+    "errorFetchingStatus": "获取状态时出错",
+    "errorConnectingMercadoPago": "连接到 Mercado Pago 时出错",
+    "errorDisconnectingAccount": "断开帐户时出错",
+    "errorUpdatingSetting": "更新设置时出错",
+    "loadMore": "装载更多",
+    "requestedBy": "被要求",
+    "pickupAddress": "取货地址",
+    "deliveryAddress": "邮寄地址",
+    "deliveryAddresses": "收货地址",
+    "viewCompleteOrder": "查看完整订单",
+    "termsUse": "使用条款",
+    "privacyPolicy": "隐私政策",
+    "tryAgain": "再试一次",
+    "support": "支持",
+    "accountSupport": "账户支持",
+    "disconnected": "断开连接",
+    "connected": "连接的",
+    "connect": "连接",
+    "disconnect": "断开",
+    "connectMyMercadoPago": "连接我的 Mercado Pago",
+    "waitConnecting": "请稍候，正在连接",
+    "continuee": "继续",
+    "saveValues": "保存值",
+    "feeEachAdditionalStop": "路线上每增加一站的费用",
+    "enterFeePerStop": "输入每站费率",
+    "feePerStop": "每站费用",
+    "valueReturnPickupSite": "返回取货地点的{distanceUnit}值",
+    "@valueReturnPickupSite": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterValueReturn": "输入返回值 {distanceUnit}",
+    "@enterValueReturn": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "returnDistance": "返回{距离单位}",
+    "@returnDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "valueAdditionalBaseDistance": "每增加一个基本距离 {distanceUnit} 的值",
+    "@valueAdditionalBaseDistance": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterDistanceValue": "输入 {distanceUnit} 值",
+    "@enterDistanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "distanceValue": "{distanceUnit} 值",
+    "@distanceValue": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "initialValueWithoutChargingAdditional": "{distanceUnit}(s) 初始值将有权不收取额外的 {distanceUnit}",
+    "@initialValueWithoutChargingAdditional": {
+        "placeholders": {
+            "distanceUnit": {
+                "type": "String"
+            }
+        }
+    },
+    "enterBaseDistance": "输入基本距离",
+    "baseDistance": "基本距离",
+    "amountInitiallyCharged": "最初收取的金额",
+    "enterBaseAmount": "输入基础金额",
+    "baseAmount": "基础金额",
+    "attention": "注意力",
+    "theValuesWillResetAppBase": "输入的值将重置为应用程序的基本值。你想继续吗？",
+    "useAppBaseValue": "使用应用基础价值",
+    "configureDeliveryFeeValues": "配置您的运费值",
+    "needCreditCardMachineOrderMercadoPagoDiscount": "需要刷卡机吗？点击此处从 Mercado Pago 订购，最高可享受 83% 的折扣",
+    "activateOfflinePaymentDebitCard": "使用借记卡激活离线支付（你需要有你的机器）",
+    "activateOfflinePaymentCreditCard": "使用信用卡激活离线支付（你需要有你的机器）",
+    "activateCashPayment": "激活现金支付",
+    "activateOnlyPaymentMercadoPago": "使用 Mercado Pago 激活在线支付（付款会立即发送到上面连接的 Mercado Pago 帐户）",
+    "settingHaveBeenSaved": "设置已保存",
+    "errorUpdatingPaymentMethods": "更新付款方式时出错",
+    "agree": "同意",
+    "disagree": "不同意",
+    "noPermissions": "没有权限",
+    "appCollectsLocationEvenBackground": "{appName} 会在您可以送货时收集您的位置，以使客户即使在应用程序关闭（在后台）或未使用时也能找到最近的快递员。",
+    "@appCollectsLocationEvenBackground": {
+        "placeholders": {
+            "appName": {
+                "type": "String"
+            }
+        }
+    },
+    "locationRequired": "需要位置",
+    "enableLocationContinue": "启用位置以继续",
+    "activate": "启用",
+    "goToSettings": "前往设置",
+    "acessLocationAllTheTime": "随时访问位置",
+    "allowAppAcessLocationAllTimesContinue": "允许该应用随时访问您的位置以继续",
+    "clickOnAdressOpenInMap": "点击地址在地图上打开",
+    "collect": "搜集",
+    "returnCollectLocation": "返回收集地点",
+    "pickupAddressNotProvidedContactCustomer": "未提供取货地址，请联系客户。",
+    "accept": "接受",
+    "refuse": "拒绝",
+    "cancelOrder": "取消订单",
+    "finalizeOrder": "完成订单",
+    "markDelivered": "交付市场",
+    "orderCollected": "订单收集",
+    "orderStatus": "订单状态",
+    "courierValue": "快递价值",
+    "appFee": "应用费",
+    "note": "笔记",
+    "returnCollectionLocation": "返回收集地点",
+    "estimatedDistance": "估计距离",
+    "addresses": "地址",
+    "select": "选择",
+    "returnn": "返回",
+    "finalize": "敲定",
+    "deliveryConfirmedSelectedAddress": "已确认送货至所选地址。",
+    "orderMarkedAs": "订单被标记为",
+    "orderRequiredReturningFinalizeOnlyAfterArrived": "该订单需要返回到收集地点，只有在您到达该地点后才能完成。",
+    "selectWhichAddressDeliveryMade": "选择收货地址",
+    "orderWillBeCanceledAmountRefundedSure": "订单将被取消，此操作不可撤销。金额将退还给客户，我们将通知您取消。你确定你要继续吗？",
+    "camera": "相机",
+    "gallery": "画廊",
+    "updatePhoto": "更新照片",
+    "cameraAccess": "相机访问",
+    "galleryAccess": "进入画廊",
+    "allowAppAccessThe": "允许应用访问 {accessType} 以发送照片",
+    "@allowAppAccessThe": {
+        "description": "允许访问",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "发送图片时出错。",
+    "balanceDue": "余额到期",
+    "pay": "支付",
+    "feeNotPaydOfflinePayment": "线下支付的订单尚未支付 10% 的费用。",
+    "failedUpdate": "更新失败",
+    "dataUpdatedSuccessfully": "数据更新成功",
+    "and": "和",
+    "kilometer": "公里",
+    "mile": "英里",
+    "km": "公里",
+    "mi": "米",
+    "signinWith": "使用 {socialNetwork} 登录",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "需要电话号码",
+    "pending": "待办的",
+    "accepted": "公认",
+    "rejected": "被拒绝",
+    "collected": "集",
+    "delivered": "发表",
+    "cancelled": "取消",
+    "andMoreLocations": "和更多 {quantity} 个位置",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "completed": "完全的",
+    "deletingYourAccont": "删除您的帐户",
+    "deleteAccount": "删除帐户",
+    "deleteMyAccount": "删除我的账户",
+    "reallyWantDeleteAccontDataWillBeLost": "您真的要删除您的帐户吗？您的数据将永久丢失。",
+    "chatWithCustomer": "与客户聊天",
+    "noMessages": "没有消息",
+    "enterAMessage": "输入信息"
+}
